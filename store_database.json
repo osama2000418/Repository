@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "sections": {
     "best_this_month": {
       "title": "أفضل الروايات لهذا الشهر",
@@ -10,7 +10,7 @@
     "new_stories": {
       "title": "روايات جديدة",
       "icon": "🆕",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9pi0rn2P-xuTqrICORPP8V5fhUUm7Qau7wFTeMd24WtTFQIw-85fmpv46t3nyUEv-xbGztbld0woOvvhjuigCFeN_RyseIrBUWl_SH12ApsH0feXlyzkNGL9IRmY7Uxshd_Dyqg0amSyLxTFSY-uQ0fq021WyLCTWKHZMbq4aBSIWiqQt_2a5LwnNNPA/s1024/1000121862.png",
+      "icon_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyd6qXUK3pUPoyHsWEZ-WyaYdggwCGSh73TdQhU8kgOakHuhWNplTTKsIK_sGK17Na9BSQx3KSdBJ7i0DhijP3Ak8uND6246Q46-9Ef_BUzmkZJ19SvSqR87mfWCd0O3OuWI2Ae_xO_6ISpLjltDxW75GpnCJa377-1OGpgusp6YX6HLhvNRAJhyphenhyphenGb-Aw/s128/1000121865.png",
       "stories": [1, 3]
     },
     "popular_stories": {

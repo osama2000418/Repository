@@ -1,119 +1,79 @@
 {
-  "version": 34,
-
+  "version": 35,
   "sections": {
     "best_this_month": {
       "title": "أفضل الروايات لهذا الشهر",
       "icon": "⭐",
+      "icon_url": "",
       "stories": [1, 2]
     },
-
     "new_stories": {
       "title": "روايات جديدة",
       "icon": "🆕",
-      "stories": [1]
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9pi0rn2P-xuTqrICORPP8V5fhUUm7Qau7wFTeMd24WtTFQIw-85fmpv46t3nyUEv-xbGztbld0woOvvhjuigCFeN_RyseIrBUWl_SH12ApsH0feXlyzkNGL9IRmY7Uxshd_Dyqg0amSyLxTFSY-uQ0fq021WyLCTWKHZMbq4aBSIWiqQt_2a5LwnNNPA/s1024/1000121862.png",
+      "stories": [1, 3]
     },
-
     "popular_stories": {
       "title": "روايات شائعة",
       "icon": "🔥",
-      "stories": [1, 2]
+      "icon_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/icons/hot_icon.png",
+      "stories": [1, 2, 3]
     },
-
     "picked_for_you": {
       "title": "روايات اخترناها لك",
       "icon": "🎯",
+      "icon_url": "",
       "stories": [2, 1]
     }
   },
-
   "stories": [
     {
       "id": 1,
       "title": "مملكة الظلال",
       "author": "اسم الكاتب",
-
       "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
-
       "background": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
-
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/refs/heads/main/story_1.json",
-
       "pages": 520,
       "chapters": 42,
       "size_mb": 18.6,
       "duration": "8 ساعات",
-
       "rating": 5.0,
-
-      "genre": [
-        "رعب",
-        "غموض",
-        "فانتازيا"
-      ],
-
-      "tags": [
-        "أسرار",
-        "مملكة",
-        "وحوش",
-        "تحقيق"
-      ],
-
+      "genre": ["رعب", "غموض", "فانتازيا"],
+      "tags": ["أسرار", "مملكة", "وحوش", "تحقيق"],
       "description": "رواية غامضة تدور أحداثها في مملكة تخفي أسرارًا مرعبة.",
-
       "language": "العربية",
       "age_rating": "16+",
       "year": 2026,
       "status": "مكتملة",
-
       "is_new": true,
       "is_locked": false,
       "featured": true,
-
       "content_version": 3,
       "updated_at": "2026-08-25"
     },
-
     {
       "id": 2,
       "title": "مدينة الموتى",
       "author": "اسم الكاتب",
-
       "cover": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/covers/dead_city.jpg",
-
       "background": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/backgrounds/dead_city.jpg",
-
       "file": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/stories/dead_city.json",
-
       "pages": 380,
       "chapters": 31,
       "size_mb": 14.2,
       "duration": "6 ساعات",
-
       "rating": 4.5,
-
-      "genre": [
-        "رعب",
-        "غموض"
-      ],
-
-      "tags": [
-        "مدينة",
-        "موتى",
-        "أسرار"
-      ],
-
+      "genre": ["رعب", "غموض"],
+      "tags": ["مدينة", "موتى", "أسرار"],
       "description": "مدينة مهجورة تخفي خلف شوارعها قصة لا يريد أحد اكتشافها.",
-
       "language": "العربية",
       "age_rating": "16+",
       "year": 2026,
       "status": "مكتملة",
-
       "is_new": false,
       "is_locked": false,
       "featured": true,
-
       "content_version": 2,
       "updated_at": "2026-08-20"
     },
@@ -121,46 +81,26 @@
       "id": 3,
       "title": "سحر المقابر",
       "author": "زينب ماجد",
-
       "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
-
       "background": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
-
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/refs/heads/main/story_1.json",
-
       "pages": 120,
       "chapters": 42,
       "size_mb": 18.6,
-      "duration": "8 ساعا42",
-
+      "duration": "8 ساعات",
       "rating": 5.0,
-
-      "genre": [
-        "رعب",
-        "غموض",
-        "فانتازيا"
-      ],
-
-      "tags": [
-        "أسرار",
-        "مملكة",
-        "وحوش",
-        "تحقيق"
-      ],
-
+      "genre": ["رعب", "غموض", "فانتازيا"],
+      "tags": ["أسرار", "مملكة", "وحوش", "تحقيق"],
       "description": "رواية غامضة تدور أحداثها في مملكة تخفي أسرارًا مرعبة.",
-
       "language": "العربية",
       "age_rating": "16+",
       "year": 2026,
       "status": "مكتملة",
-
       "is_new": true,
       "is_locked": false,
       "featured": true,
-
       "content_version": 3,
       "updated_at": "2026-08-26"
-    },
+    }
   ]
 }

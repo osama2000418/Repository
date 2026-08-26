@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "slides": [
     {
       "story_id": 1,
@@ -61,7 +61,7 @@
       "year": 2026,
       "status": "مكتملة",
       "is_new": true,
-      "is_locked": false,
+      "is_locked": true,
       "featured": true,
       "content_version": 3,
       "updated_at": "2026-08-25"

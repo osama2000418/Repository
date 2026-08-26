@@ -1,5 +1,5 @@
 {
-  "version":33,
+  "version": 34,
 
   "sections": {
     "best_this_month": {
@@ -116,6 +116,51 @@
 
       "content_version": 2,
       "updated_at": "2026-08-20"
-    }
+    },
+    {
+      "id": 3,
+      "title": "سحر المقابر",
+      "author": "زينب ماجد",
+
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
+
+      "background": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
+
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/refs/heads/main/story_1.json",
+
+      "pages": 120,
+      "chapters": 42,
+      "size_mb": 18.6,
+      "duration": "8 ساعا42",
+
+      "rating": 5.0,
+
+      "genre": [
+        "رعب",
+        "غموض",
+        "فانتازيا"
+      ],
+
+      "tags": [
+        "أسرار",
+        "مملكة",
+        "وحوش",
+        "تحقيق"
+      ],
+
+      "description": "رواية غامضة تدور أحداثها في مملكة تخفي أسرارًا مرعبة.",
+
+      "language": "العربية",
+      "age_rating": "16+",
+      "year": 2026,
+      "status": "مكتملة",
+
+      "is_new": true,
+      "is_locked": false,
+      "featured": true,
+
+      "content_version": 3,
+      "updated_at": "2026-08-26"
+    },
   ]
 }

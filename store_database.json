@@ -189,7 +189,7 @@
       "status": "مستمرة",
       "is_new": true,
       "is_locked": false,
-      "target_timestamp": 1725072000,
+      "target_timestamp": 1800,
       "target_action": "lock",
       "featured": false,
       "content_version": 1,

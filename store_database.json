@@ -1,14 +1,46 @@
 {
-  "version": 46,
+  "version": 47,
   "slides": [
     {
       "story_id": 1,
       "title": "مملكة الظلال - الأكثر قراءة!",
+      "tag": "🔥 الأكثر قراءة",
+      "description": "اكتشف أسرار المملكة المحرمة ورحلة الاستكشاف بين الغموض والرعب.",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg"
     },
     {
       "story_id": 3,
       "title": "سحر المقابر - إصدار حصري",
+      "tag": "⭐ مقترح لك",
+      "description": "رواية رعب وفانتازيا مميزة للكاتبة زينب ماجد تحبس الأنفاس.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg"
+    },
+    {
+      "story_id": 2,
+      "title": "مدينة الموتى - مغامرة مرعبة",
+      "tag": "🆕 ترشيح الشهر",
+      "description": "مدينة مهجورة تخفي خلف شوارعها قصة لا يريد أحد اكتشافها.",
+      "image": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/backgrounds/dead_city.jpg"
+    },
+    {
+      "story_id": 4,
+      "title": "مملكة الظلال - الأكثر قراءة!",
+      "tag": "🔥 الأكثر قراءة",
+      "description": "اكتشف أسرار المملكة المحرمة ورحلة الاستكشاف بين الغموض والرعب.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg"
+    },
+    {
+      "story_id": 5,
+      "title": "مملكة الظلال - الأكثر قراءة!",
+      "tag": "🔥 الأكثر قراءة",
+      "description": "اكتشف أسرار المملكة المحرمة ورحلة الاستكشاف بين الغموض والرعب.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg"
+    },
+    {
+      "story_id": 6,
+      "title": "مملكة الظلال - الأكثر قراءة!",
+      "tag": "🔥 الأكثر قراءة",
+      "description": "اكتشف أسرار المملكة المحرمة ورحلة الاستكشاف بين الغموض والرعب.",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg"
     }
   ],
@@ -43,7 +75,6 @@
       "id": 1,
       "title": "مملكة الظلال",
       "author": "اسم الكاتب",
-      "price": 0,
       "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
       "background": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/refs/heads/main/story_1.json",

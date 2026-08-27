@@ -1,5 +1,15 @@
 {
   "version": 48,
+  "release_schedule": [
+    {
+      "title": "رواية ظلال القمر - الجزء الثاني",
+      "date": "2026-10-01",
+      "time": "18:00 بتوقيت مكة",
+      "timestamp": 1793462400,
+      "info": "تكملة الملحمة الأسطورية، استعدوا لمفاجآت غير متوقعة.",
+      "cover": "https://example.com/cover1.png"
+    }
+  ],
   "slides": [
     {
       "story_id": 1,
@@ -21,27 +31,6 @@
       "tag": "🆕 ترشيح الشهر",
       "description": "مدينة مهجورة تخفي خلف شوارعها قصة لا يريد أحد اكتشافها.",
       "image": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/backgrounds/dead_city.jpg"
-    },
-    {
-      "story_id": 4,
-      "title": "مملكة الظلال - الأكثر قراءة!",
-      "tag": "🔥 الأكثر قراءة",
-      "description": "اكتشف أسرار المملكة المحرمة ورحلة الاستكشاف بين الغموض والرعب.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg"
-    },
-    {
-      "story_id": 5,
-      "title": "مملكة الظلال - الأكثر قراءة!",
-      "tag": "🔥 الأكثر قراءة",
-      "description": "اكتشف أسرار المملكة المحرمة ورحلة الاستكشاف بين الغموض والرعب.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg"
-    },
-    {
-      "story_id": 6,
-      "title": "مملكة الظلال - الأكثر قراءة!",
-      "tag": "🔥 الأكثر قراءة",
-      "description": "اكتشف أسرار المملكة المحرمة ورحلة الاستكشاف بين الغموض والرعب.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg"
     }
   ],
   "sections": {
@@ -93,7 +82,7 @@
       "year": 2026,
       "status": "مكتملة",
       "is_new": true,
-      "is_locked": true,
+      "is_locked": false,
       "featured": true,
       "content_version": 3,
       "updated_at": "2026-08-25"
@@ -149,6 +138,62 @@
       "featured": true,
       "content_version": 3,
       "updated_at": "2026-08-26"
+    },
+    {
+      "id": 4,
+      "title": "القصة العادية",
+      "author": "أسامة",
+      "price": 50,
+      "cover": "",
+      "background": "",
+      "file": "",
+      "pages": 0,
+      "chapters": 0,
+      "size_mb": 0.0,
+      "duration": "",
+      "rating": 0.0,
+      "genre": ["عام"],
+      "tags": [],
+      "description": "قصة تجريبية لاختبار ميزة الفتح التلقائي.",
+      "language": "العربية",
+      "age_rating": "الجميع",
+      "year": 2026,
+      "status": "مستمرة",
+      "is_new": true,
+      "is_locked": true,
+      "target_timestamp": 1725000000,
+      "target_action": "unlock",
+      "featured": false,
+      "content_version": 1,
+      "updated_at": "2026-08-27"
+    },
+    {
+      "id": 5,
+      "title": "قصة ستُقفل قريباً",
+      "author": "أسامة",
+      "price": 0,
+      "cover": "",
+      "background": "",
+      "file": "",
+      "pages": 0,
+      "chapters": 0,
+      "size_mb": 0.0,
+      "duration": "",
+      "rating": 0.0,
+      "genre": ["عام"],
+      "tags": [],
+      "description": "قصة تجريبية لاختبار ميزة القفل التلقائي.",
+      "language": "العربية",
+      "age_rating": "الجميع",
+      "year": 2026,
+      "status": "مستمرة",
+      "is_new": true,
+      "is_locked": false,
+      "target_timestamp": 1726000000,
+      "target_action": "lock",
+      "featured": false,
+      "content_version": 1,
+      "updated_at": "2026-08-27"
     }
   ]
 }

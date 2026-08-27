@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "slides": [
     {
       "story_id": 1,
@@ -53,6 +53,7 @@
       "size_mb": 18.6,
       "duration": "8 ساعات",
       "rating": 5.0,
+      "reward_coins": 20,
       "genre": ["رعب", "غموض", "فانتازيا"],
       "tags": ["أسرار", "مملكة", "وحوش", "تحقيق"],
       "description": "رواية غامضة تدور أحداثها في مملكة تخفي أسرارًا مرعبة.",
@@ -61,7 +62,7 @@
       "year": 2026,
       "status": "مكتملة",
       "is_new": true,
-      "is_locked": true,
+      "is_locked": false,
       "featured": true,
       "content_version": 3,
       "updated_at": "2026-08-25"

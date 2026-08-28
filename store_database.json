@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "release_schedule": [
     {
       "title": "رواية ظلال القمر - الجزء الثاني",
@@ -190,7 +190,7 @@
       "status": "مستمرة",
       "is_new": true,
       "is_locked": false,
-      "target_timestamp": 1788002940,
+      "target_timestamp": 1788280140,
       "target_action": "lock",
       "featured": false,
       "content_version": 1,

@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version":60,
   "release_schedule": [
     {
       "title": "رواية ظلال القمر - الجزء الثاني",
@@ -196,8 +196,7 @@
       "featured": false,
       "content_version": 1,
       "updated_at": "2026-08-27"
-    }
-,
+    },
     {
       "id": 6,
       "title": "مملكة الظلال",
@@ -225,6 +224,44 @@
       "featured": true,
       "content_version": 3,
       "updated_at": "2026-08-25"
-    }
+    },
+     {
+      "id": 7,
+      "title": "قصة الأساطير الذهبية",
+      "author": "أسامة",
+      "rating": 4.9,
+      "price": 50,
+      "cover": "https://example.com/cover1.jpg",
+      "card_style": {
+        "bg_color": "#1a0f2e",
+        "border_color": "#ffcc00",
+        "border_width": 2,
+        "corner_radius": 16,
+        "shadow_color": "#ffcc0040",
+        "shadow_size": 12,
+        "title_color": "#ffd700",
+        "author_color": "#d1c4e9",
+        "button_bg": "#7b1fa2",
+        "button_hover": "#9c27b0"
+    },
+    {
+      "id": 8,
+      "title": "قصة العاصفة المظلمة",
+      "author": "محمد",
+      "rating": 4.5,
+      "price": 0,
+      "cover": "https://example.com/cover2.jpg",
+      "card_style": {
+        "bg_color": "#0d1b2a",
+        "border_color": "#1b263b",
+        "border_width": 1,
+        "corner_radius": 8,
+        "shadow_color": "#00000080",
+        "shadow_size": 8,
+        "title_color": "#e0e1dd",
+        "author_color": "#778da9",
+        "button_bg": "#415a77",
+        "button_hover": "#778da9"
+      }
   ]
 }

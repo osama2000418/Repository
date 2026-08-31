@@ -278,7 +278,7 @@
 		"glow_color": "#70705fff",
 		"shadow_color": "##70705f",
 		"shadow_offset_x": 0,
-		"shadow_offset_y": 3,
+		"shadow_offset_y": 10,
 		"shadow_size": 15,
 		"title_color": "#f2f2f2"
       }

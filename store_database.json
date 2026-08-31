@@ -1,5 +1,5 @@
 {
-  "version": 65,
+  "version": 66,
   "release_schedule": [
     {
       "title": "رواية ظلال القمر - الجزء الثاني",
@@ -276,7 +276,7 @@
 		"corner_radius_top_left": 11,
 		"corner_radius_top_right": 11,
 		"glow_color": "#70705fff",
-		"shadow_color": "#000000",
+		"shadow_color": "##70705f",
 		"shadow_offset_x": 0,
 		"shadow_offset_y": 3,
 		"shadow_size": 10,

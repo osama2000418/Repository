@@ -1,5 +1,5 @@
 {
-  "version": 67,
+  "version": 68,
   "release_schedule": [
     {
       "title": "رواية ظلال القمر - الجزء الثاني",
@@ -266,20 +266,20 @@
 		"bg_color_disabled": "#010101",
 		"bg_color_hover": "#1e1e1e",
 		"bg_color_pressed": "#090909",
-		"border_color": "#33331a",
+		"border_color": "#664d33",
 		"border_width_bottom": 3,
 		"border_width_left": 3,
 		"border_width_right": 3,
 		"border_width_top": 3,
-		"corner_radius_bottom_left": 11,
-		"corner_radius_bottom_right": 11,
-		"corner_radius_top_left": 11,
-		"corner_radius_top_right": 11,
-		"glow_color": "#70705fff",
-		"shadow_color": "##70705f",
+		"corner_radius_bottom_left": 12,
+		"corner_radius_bottom_right": 12,
+		"corner_radius_top_left": 12,
+		"corner_radius_top_right": 12,
+		"glow_color": "#948270ff",
+		"shadow_color": "#000000",
 		"shadow_offset_x": 0,
-		"shadow_offset_y": 10,
-		"shadow_size": 15,
+		"shadow_offset_y": 3,
+		"shadow_size": 10,
 		"title_color": "#f2f2f2"
       }
     }

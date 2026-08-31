@@ -276,7 +276,7 @@
 		"corner_radius_top_left": 12,
 		"corner_radius_top_right": 12,
 		"glow_color": "#948270ff",
-		"shadow_color": "#000000",
+		"shadow_color": "#948270",
 		"shadow_offset_x": 0,
 		"shadow_offset_y": 3,
 		"shadow_size": 10,

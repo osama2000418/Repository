@@ -1,5 +1,5 @@
 {
-  "version": 63,
+  "version": 64,
   "release_schedule": [
     {
       "title": "رواية ظلال القمر - الجزء الثاني",
@@ -260,7 +260,6 @@
       "featured": true,
       "content_version": 3,
       "updated_at": "2026-08-25",
-     {
 	"card_style": {
 		"author_color": "#b3b3b3",
 		"bg_color": "#0a0a0a",

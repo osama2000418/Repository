@@ -1,5 +1,5 @@
 {
-  "version": 76,
+  "version": 77,
   "release_schedule": [
     {
       "title": "رواية ظلال القمر - الجزء الثاني",
@@ -40,6 +40,11 @@
       "icon_url": "",
       "stories": [1, 2]
     },
+      "category_icons": {
+    "رومانسية": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimzlQnUHM3GUSXooj_96h2SzK0KlbvJNt0p8s4jEPQAS0MhqaKWiXiKmdBtJWnIXUVqGuA5NBeMOOfqnzEhyphenhyphenJELs19woABZp5_TOUHdphsB7mPjKB0KMh1_2f3ai8fkGvxTOwfqUZFhtbi-2rQH5s8katgQasX5ags_b0x_jEzwkU0oIFUwuF0AlJpi74/s1019/1000123155.png",
+    "غموض": "https://raw.githubusercontent.com/osama2000418/Repository/main/icons/mystery.png",
+    "فانتازيا": "https://raw.githubusercontent.com/osama2000418/Repository/main/icons/fantasy.png"
+  },  
     "new_stories": {
       "title": "روايات جديدة",
       "icon": "🆕",

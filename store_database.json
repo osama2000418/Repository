@@ -1,5 +1,5 @@
 {
-  "version": 75,
+  "version": 59,
   "release_schedule": [
     {
       "title": "رواية ظلال القمر - الجزء الثاني",
@@ -16,8 +16,8 @@
       "title": "مملكة الظلال - الأكثر قراءة!",
       "tag": "🔥 الأكثر قراءة",
       "description": "اكتشف أسرار المملكة المحرمة ورحلة الاستكشاف بين الغموض والرعب.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjBUCNYMYQh1ypPEknqU9gWoTkoVcijnJTSrwcBMIJXLuoM_aNfvOF25vM3OK5IMvLSX0xmspoTke7B6yY2CoNGYD8u9YAieMAp_wtW9f9gfGYU8nyK6BA-hBwdHisRQyCZZ0VQBjCnB86hI_-I-gt7hPrT4FqlTcuCTgWlEFKnf7R3rEdBtVaFRDq4u8/s1552/1000123145.png",
-	},
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg"
+    },
     {
       "story_id": 3,
       "title": "سحر المقابر - إصدار حصري",
@@ -240,6 +240,8 @@
       "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
       "background": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/refs/heads/main/story_1.json",
+      "icon": "📚",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimzlQnUHM3GUSXooj_96h2SzK0KlbvJNt0p8s4jEPQAS0MhqaKWiXiKmdBtJWnIXUVqGuA5NBeMOOfqnzEhyphenhyphenJELs19woABZp5_TOUHdphsB7mPjKB0KMh1_2f3ai8fkGvxTOwfqUZFhtbi-2rQH5s8katgQasX5ags_b0x_jEzwkU0oIFUwuF0AlJpi74/s1019/1000123155.png",
       "pages": 520,
       "price": 50,
       "chapters": 42,
@@ -276,7 +278,7 @@
 		"corner_radius_top_left": 12,
 		"corner_radius_top_right": 12,
 		"glow_color": "#948270ff",
-		"shadow_color": "#948270",
+		"shadow_color": "#000000",
 		"shadow_offset_x": 0,
 		"shadow_offset_y": 3,
 		"shadow_size": 10,

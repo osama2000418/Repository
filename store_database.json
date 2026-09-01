@@ -1,6 +1,6 @@
 {
 
-  "version": 101,
+  "version": 102,
 
   "VIP": {
 
@@ -254,7 +254,7 @@
 
         "button_hover": "#9c27b0"
 
-      }
+      
 
     },
 
@@ -332,7 +332,7 @@
 
         "button_hover": "#778da9"
 
-      }
+     
 
     },
 
@@ -411,8 +411,6 @@
         "button_bg": "#800000",
 
         "button_hover": "#cc0000"
-
-      }
 
     },
 

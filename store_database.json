@@ -1,6 +1,6 @@
 {
 
-  "version": 108,
+  "version": 109,
 
   "VIP": {
 
@@ -420,7 +420,7 @@
 
       "author": "اسم الكاتب",
 
-      "price": 0,
+      "price": 4,
 
       "vip_points": 100,
 
@@ -497,7 +497,7 @@
 
       "author": "اسم الكاتب",
 
-      "price": 0,
+      "price": 4,
 
       "vip_points": 300,
 
@@ -713,7 +713,7 @@
 
       "author": "أسامة",
 
-      "price": 0,
+      "price": 2,
 
       "vip_points": 50,
 
@@ -783,7 +783,7 @@
 
       "pages": 520,
 
-      "price": 0,
+      "price": 1,
 
       "vip_points": 50,
 

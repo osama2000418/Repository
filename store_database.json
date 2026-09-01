@@ -1,6 +1,6 @@
 {
 
-  "version": 94,
+  "version": 96,
 
   "VIP": {
 
@@ -634,245 +634,121 @@
 
         "title_color": "#f2f2f2"
 
-      },
-   {
+      }
+      {
 
       "id": 7,
 
-      "title": "مملكة الظلال",
+      "title": "القصة العادية",
 
-      "author": "اسم الكاتب",
-
-      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
-
-      "background": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
-
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/refs/heads/main/story_1.json",
-
-      "pages": 520,
+      "author": "أسامة",
 
       "price": 50,
 
       "vip_points": 20,
 
-      "chapters": 42,
+      "cover": "",
 
-      "size_mb": 18.6,
+      "background": "",
 
-      "hijri_locked_months": [4, 8, 9],
+      "file": "",
 
-      "duration": "8 ساعات",
+      "pages": 0,
 
-      "rating": 5.0,
+      "chapters": 0,
 
-      "reward_coins": 20,
+      "size_mb": 0.0,
 
-      "genre": ["رعب", "غموض", "فانتازيا"],
+      "duration": "",
 
-      "tags": ["أسرار", "مملكة", "وحوش", "تحقيق"],
+      "rating": 0.0,
 
-      "description": "رواية غامضة تدور أحداثها في مملكة تخفي أسرارًا مرعبة.",
+      "genre": ["اخر التحديثات"],
+
+      "tags": [],
+
+      "description": "قصة تجريبية لاختبار ميزة الفتح التلقائي.",
 
       "language": "العربية",
 
-      "age_rating": "16+",
+      "age_rating": "الجميع",
 
       "year": 2026,
 
-      "status": "مكتملة",
+      "status": "مستمرة",
 
       "is_new": true,
 
-      "is_locked": false,
+      "is_locked": true,
 
-      "featured": true,
+      "target_timestamp": 1725072000,
 
-      "content_version": 3,
+      "target_action": "unlock",
 
-      "updated_at": "2026-08-25",
+      "featured": false,
 
-      "card_style": {
+      "content_version": 1,
 
-        "bg_color": "#1a0f2e",
+      "updated_at": "2026-08-27"
 
-        "border_color": "#ffcc00",
-
-        "border_width": 2,
-
-        "corner_radius": 16,
-
-        "shadow_color": "#ffcc0040",
-
-        "shadow_size": 12,
-
-        "title_color": "#ffd700",
-
-        "author_color": "#d1c4e9",
-
-        "button_bg": "#7b1fa2",
-
-        "button_hover": "#9c27b0"
-
-      },
-     {
+    },
+   {
 
       "id": 8,
 
-      "title": "مملكة الظلال",
+      "title": "القصة العادية",
 
-      "author": "اسم الكاتب",
-
-      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
-
-      "background": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
-
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/refs/heads/main/story_1.json",
-
-      "pages": 520,
+      "author": "أسامة",
 
       "price": 0,
 
       "vip_points": 20,
 
-      "chapters": 42,
+      "cover": "",
 
-      "size_mb": 18.6,
+      "background": "",
 
-      "hijri_locked_months": [4, 8, 9],
+      "file": "",
 
-      "duration": "8 ساعات",
+      "pages": 0,
 
-      "rating": 5.0,
+      "chapters": 0,
 
-      "reward_coins": 200,
+      "size_mb": 0.0,
 
-      "genre": ["رعب", "غموض", "فانتازيا"],
+      "duration": "",
 
-      "tags": ["أسرار", "مملكة", "وحوش", "تحقيق"],
+      "rating": 0.0,
 
-      "description": "رواية غامضة تدور أحداثها في مملكة تخفي أسرارًا مرعبة.",
+      "genre": ["اخر التحديثات"],
 
-      "language": "العربية",
+      "tags": [],
 
-      "age_rating": "16+",
-
-      "year": 2026,
-
-      "status": "مكتملة",
-
-      "is_new": true,
-
-      "is_locked": false,
-
-      "featured": true,
-
-      "content_version": 3,
-
-      "updated_at": "2026-08-25",
-
-      "card_style": {
-
-        "bg_color": "#1a0f2e",
-
-        "border_color": "#ffcc00",
-
-        "border_width": 2,
-
-        "corner_radius": 16,
-
-        "shadow_color": "#ffcc0040",
-
-        "shadow_size": 12,
-
-        "title_color": "#ffd700",
-
-        "author_color": "#d1c4e9",
-
-        "button_bg": "#7b1fa2",
-
-        "button_hover": "#9c27b0"
-
-      } ,
-      {
-
-      "id": 9,
-
-      "title": "مملكة الظلال",
-
-      "author": "اسم الكاتب",
-
-      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
-
-      "background": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Mrt28F00vld3wl12cbnLIfhzuL9vVNH5uewo5WC44YCkKsHD3LU9d4FX6bY4Hy-Tw6v74oRHtOF6KA3y3OEx9iqETSTrSZzmTQOgkfCMXgjFgIwMwBW1ambGgeOrykCSYn0IANFWyjjq8tUrevUV5cOxy_dgy9_uQ-mRNKh2THWFSDKkegE0f4By-RY/s225/401983242-144-k819172.jpg",
-
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/refs/heads/main/story_1.json",
-
-      "pages": 520,
-
-      "price": 0,
-
-      "vip_points": 20,
-
-      "chapters": 42,
-
-      "size_mb": 18.6,
-
-      "hijri_locked_months": [4, 8, 9],
-
-      "duration": "8 ساعات",
-
-      "rating": 5.0,
-
-      "reward_coins": 200,
-
-      "genre": ["رعب", "غموض", "فانتازيا"],
-
-      "tags": ["أسرار", "مملكة", "وحوش", "تحقيق"],
-
-      "description": "رواية غامضة تدور أحداثها في مملكة تخفي أسرارًا مرعبة.",
+      "description": "قصة تجريبية لاختبار ميزة الفتح التلقائي.",
 
       "language": "العربية",
 
-      "age_rating": "16+",
+      "age_rating": "الجميع",
 
       "year": 2026,
 
-      "status": "مكتملة",
+      "status": "مستمرة",
 
       "is_new": true,
 
-      "is_locked": false,
+      "is_locked": true,
 
-      "featured": true,
+      "target_timestamp": 1725072000,
 
-      "content_version": 3,
+      "target_action": "unlock",
 
-      "updated_at": "2026-08-25",
+      "featured": false,
 
-      "card_style": {
+      "content_version": 1,
 
-        "bg_color": "#1a0f2e",
+      "updated_at": "2026-08-27"
 
-        "border_color": "#ffcc00",
-
-        "border_width": 2,
-
-        "corner_radius": 16,
-
-        "shadow_color": "#ffcc0040",
-
-        "shadow_size": 12,
-
-        "title_color": "#ffd700",
-
-        "author_color": "#d1c4e9",
-
-        "button_bg": "#7b1fa2",
-
-        "button_hover": "#9c27b0"
-
-      } 
-
+    }       
     }
 
   ]

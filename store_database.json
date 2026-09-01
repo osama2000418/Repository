@@ -1,5 +1,5 @@
 {
-  "version": 83,
+  "version": 84,
   "release_schedule": [
     {
       "title": "رواية ظلال القمر - الجزء الثاني",
@@ -37,7 +37,7 @@
     "best_this_month": {
       "title": "أفضل الروايات لهذا الشهر",
       "icon": "⭐",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwj5G0n4oN9ddui_e8fK8IjcKZp6HPRK2EC3EiBaC5qmxxA670qnM1ApXAhMeyGr0dkswoBWblZ5Z3dWndIlNHJ4oTlUyk8js3nAhmPffxU0dwJn28YgmNNpqavtX244Ebv6lp2Qp8-gpGWf78zBpOJnVuWIS9VQzScCQ57S8nfua8NO4ehyphenhyphenfUt-UQw9Y/s1280/1000123185.png",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgX4BRjz8-XUgROuUMY1WjrB9GkWPs2bsA6CoBkN8VGAQYGrKRRAerXDZEGhWvoKlFD9xyalzwqg5ME3pxWB7ipRVpGKDlza4UJ0alYF6zCpvOxUXC2tan8TglyDMo_7o0m5osZN_GQMMWSmua_42ymC2YaObp3Oxdq8WSZ8TOuSwxu9wFyU4PXYR6NJE/s1280/1000123187.png",
       "stories": [1, 2]
     },  
     "new_stories": {

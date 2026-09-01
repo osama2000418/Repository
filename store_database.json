@@ -1,5 +1,27 @@
 {
-  "version": 88,
+  "version": 86,
+  "categories": {
+    "رعب": {
+      "icon_url": "https://example.com/icons/horror.png",
+      "emoji": "👻"
+    },
+    "غموض": {
+      "icon_url": "https://example.com/icons/mystery.png",
+      "emoji": "🔍"
+    },
+    "فانتازيا": {
+      "icon_url": "https://example.com/icons/fantasy.png",
+      "emoji": "🔮"
+    },
+    "رومانسي": {
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwj5G0n4oN9ddui_e8fK8IjcKZp6HPRK2EC3EiBaC5qmxxA670qnM1ApXAhMeyGr0dkswoBWblZ5Z3dWndIlNHJ4oTlUyk8js3nAhmPffxU0dwJn28YgmNNpqavtX244Ebv6lp2Qp8-gpGWf78zBpOJnVuWIS9VQzScCQ57S8nfua8NO4ehyphenhyphenfUt-UQw9Y/s1280/1000123185.png",
+      "emoji": "💖"
+    },
+    "عام": {
+      "icon_url": "",
+      "emoji": "📚"
+    }
+  },
   "release_schedule": [  
     {
       "title": "رواية ظلال القمر - الجزء الثاني",
@@ -56,12 +78,6 @@
       "title": "روايات اخترناها لك",
       "icon": "🎯",
       "icon_url": "",
-      "stories": [2, 1]
-    },
-    "romantic": {
-      "title": "رومانسية",
-      "icon": "🎯",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwj5G0n4oN9ddui_e8fK8IjcKZp6HPRK2EC3EiBaC5qmxxA670qnM1ApXAhMeyGr0dkswoBWblZ5Z3dWndIlNHJ4oTlUyk8js3nAhmPffxU0dwJn28YgmNNpqavtX244Ebv6lp2Qp8-gpGWf78zBpOJnVuWIS9VQzScCQ57S8nfua8NO4ehyphenhyphenfUt-UQw9Y/s1280/1000123185.png",
       "stories": [2, 1]
     }
   },
@@ -268,37 +284,28 @@
       "featured": true,
       "content_version": 3,
       "updated_at": "2026-08-25",
-	"card_style": {
-		"author_color": "#b3b3b3",
-		"bg_color": "#0a0a0a",
-		"bg_color_disabled": "#010101",
-		"bg_color_hover": "#1e1e1e",
-		"bg_color_pressed": "#090909",
-		"border_color": "#664d33",
-		"border_width_bottom": 3,
-		"border_width_left": 3,
-		"border_width_right": 3,
-		"border_width_top": 3,
-		"corner_radius_bottom_left": 12,
-		"corner_radius_bottom_right": 12,
-		"corner_radius_top_left": 12,
-		"corner_radius_top_right": 12,
-		"glow_color": "#948270ff",
-		"shadow_color": "#000000",
-		"shadow_offset_x": 0,
-		"shadow_offset_y": 3,
-		"shadow_size": 10,
-		"title_color": "#f2f2f2"
-      },
-      "categories": {
-    "رومانسية": {
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwj5G0n4oN9ddui_e8fK8IjcKZp6HPRK2EC3EiBaC5qmxxA670qnM1ApXAhMeyGr0dkswoBWblZ5Z3dWndIlNHJ4oTlUyk8js3nAhmPffxU0dwJn28YgmNNpqavtX244Ebv6lp2Qp8-gpGWf78zBpOJnVuWIS9VQzScCQ57S8nfua8NO4ehyphenhyphenfUt-UQw9Y/s1280/1000123185.png",
-      "emoji": "🔍"
-    },
-    "رعب": {
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwj5G0n4oN9ddui_e8fK8IjcKZp6HPRK2EC3EiBaC5qmxxA670qnM1ApXAhMeyGr0dkswoBWblZ5Z3dWndIlNHJ4oTlUyk8js3nAhmPffxU0dwJn28YgmNNpqavtX244Ebv6lp2Qp8-gpGWf78zBpOJnVuWIS9VQzScCQ57S8nfua8NO4ehyphenhyphenfUt-UQw9Y/s1280/1000123185.png",
-      "emoji": "👻"
+      "card_style": {
+        "author_color": "#b3b3b3",
+        "bg_color": "#0a0a0a",
+        "bg_color_disabled": "#010101",
+        "bg_color_hover": "#1e1e1e",
+        "bg_color_pressed": "#090909",
+        "border_color": "#664d33",
+        "border_width_bottom": 3,
+        "border_width_left": 3,
+        "border_width_right": 3,
+        "border_width_top": 3,
+        "corner_radius_bottom_left": 12,
+        "corner_radius_bottom_right": 12,
+        "corner_radius_top_left": 12,
+        "corner_radius_top_right": 12,
+        "glow_color": "#948270ff",
+        "shadow_color": "#000000",
+        "shadow_offset_x": 0,
+        "shadow_offset_y": 3,
+        "shadow_size": 10,
+        "title_color": "#f2f2f2"
+      }
     }
-   }
   ]
 }

@@ -1,6 +1,6 @@
 {
 
-  "version": 106,
+  "version": 104,
 
   "VIP": {
 
@@ -339,13 +339,13 @@
 
       "id": 7,
 
-      "title": "مدينة زولتا",
+      "title": "زولتا",
 
       "author": "اسم الكاتب",
 
       "price": 0,
 
-      "vip_points": 50,
+      "vip_points": 51,
 
       "cover": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/covers/dead_city.jpg",
 
@@ -416,7 +416,7 @@
 
       "id": 8,
 
-      "title": "مدينة الهلاك",
+      "title": "وب",
 
       "author": "اسم الكاتب",
 
@@ -493,7 +493,7 @@
 
       "id": 9,
 
-      "title": "مدينة الاباطرة",
+      "title": "الاباطرة",
 
       "author": "اسم الكاتب",
 

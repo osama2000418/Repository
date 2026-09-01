@@ -1,6 +1,6 @@
 {
 
-  "version": 109,
+  "version": 110,
 
   "VIP": {
 
@@ -500,6 +500,7 @@
       "price": 4,
 
       "vip_points": 300,
+      "reward_coins": 200,
 
       "cover": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/covers/dead_city.jpg",
 

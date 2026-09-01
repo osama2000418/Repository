@@ -1,5 +1,5 @@
 {
-  "version": 81,
+  "version": 82,
   "release_schedule": [
     {
       "title": "رواية ظلال القمر - الجزء الثاني",
@@ -37,7 +37,7 @@
     "best_this_month": {
       "title": "أفضل الروايات لهذا الشهر",
       "icon": "⭐",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimzlQnUHM3GUSXooj_96h2SzK0KlbvJNt0p8s4jEPQAS0MhqaKWiXiKmdBtJWnIXUVqGuA5NBeMOOfqnzEhyphenhyphenJELs19woABZp5_TOUHdphsB7mPjKB0KMh1_2f3ai8fkGvxTOwfqUZFhtbi-2rQH5s8katgQasX5ags_b0x_jEzwkU0oIFUwuF0AlJpi74/s1019/1000123155.png",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwj5G0n4oN9ddui_e8fK8IjcKZp6HPRK2EC3EiBaC5qmxxA670qnM1ApXAhMeyGr0dkswoBWblZ5Z3dWndIlNHJ4oTlUyk8js3nAhmPffxU0dwJn28YgmNNpqavtX244Ebv6lp2Qp8-gpGWf78zBpOJnVuWIS9VQzScCQ57S8nfua8NO4ehyphenhyphenfUt-UQw9Y/s1280/1000123185.png",
       "stories": [1, 2]
     },  
     "new_stories": {
@@ -49,13 +49,19 @@
     "popular_stories": {
       "title": "روايات شائعة",
       "icon": "🔥",
-      "icon_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/icons/hot_icon.png",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLsa7EA20yXLvchg6s0nZjLNUy6sKMt20SYbdm6PAxCqIM392lyd48RGVdDnS7O_vWMynmf2Q549tXB7IPcfyhvTC-RLfIuqO0B0APgJiUEF5NmeehgRmxl3aWC8ptDn0sLvVHFla5tl442flIMk1d3z0X0P9gDcr0wxQNGUGtVzVUmUc-QxoJ6Ly2oyk/s1280/1000123182.png",
       "stories": [1, 2, 3]
     },
     "picked_for_you": {
       "title": "روايات اخترناها لك",
       "icon": "🎯",
-      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimzlQnUHM3GUSXooj_96h2SzK0KlbvJNt0p8s4jEPQAS0MhqaKWiXiKmdBtJWnIXUVqGuA5NBeMOOfqnzEhyphenhyphenJELs19woABZp5_TOUHdphsB7mPjKB0KMh1_2f3ai8fkGvxTOwfqUZFhtbi-2rQH5s8katgQasX5ags_b0x_jEzwkU0oIFUwuF0AlJpi74/s1019/1000123155.png",
+      "icon_url": "",
+      "stories": [2, 1]
+    },
+    "picked_for_you": {
+      "title": "رومانسية",
+      "icon": "🎯",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwj5G0n4oN9ddui_e8fK8IjcKZp6HPRK2EC3EiBaC5qmxxA670qnM1ApXAhMeyGr0dkswoBWblZ5Z3dWndIlNHJ4oTlUyk8js3nAhmPffxU0dwJn28YgmNNpqavtX244Ebv6lp2Qp8-gpGWf78zBpOJnVuWIS9VQzScCQ57S8nfua8NO4ehyphenhyphenfUt-UQw9Y/s1280/1000123185.png",
       "stories": [2, 1]
     }
   },

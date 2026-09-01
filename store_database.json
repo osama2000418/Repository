@@ -1,6 +1,6 @@
 {
 
-  "version": 96,
+  "version": 97,
 
   "VIP": {
 
@@ -635,120 +635,7 @@
         "title_color": "#f2f2f2"
 
       }
-      {
-
-      "id": 7,
-
-      "title": "القصة العادية",
-
-      "author": "أسامة",
-
-      "price": 50,
-
-      "vip_points": 20,
-
-      "cover": "",
-
-      "background": "",
-
-      "file": "",
-
-      "pages": 0,
-
-      "chapters": 0,
-
-      "size_mb": 0.0,
-
-      "duration": "",
-
-      "rating": 0.0,
-
-      "genre": ["اخر التحديثات"],
-
-      "tags": [],
-
-      "description": "قصة تجريبية لاختبار ميزة الفتح التلقائي.",
-
-      "language": "العربية",
-
-      "age_rating": "الجميع",
-
-      "year": 2026,
-
-      "status": "مستمرة",
-
-      "is_new": true,
-
-      "is_locked": true,
-
-      "target_timestamp": 1725072000,
-
-      "target_action": "unlock",
-
-      "featured": false,
-
-      "content_version": 1,
-
-      "updated_at": "2026-08-27"
-
-    },
-   {
-
-      "id": 8,
-
-      "title": "القصة العادية",
-
-      "author": "أسامة",
-
-      "price": 0,
-
-      "vip_points": 20,
-
-      "cover": "",
-
-      "background": "",
-
-      "file": "",
-
-      "pages": 0,
-
-      "chapters": 0,
-
-      "size_mb": 0.0,
-
-      "duration": "",
-
-      "rating": 0.0,
-
-      "genre": ["اخر التحديثات"],
-
-      "tags": [],
-
-      "description": "قصة تجريبية لاختبار ميزة الفتح التلقائي.",
-
-      "language": "العربية",
-
-      "age_rating": "الجميع",
-
-      "year": 2026,
-
-      "status": "مستمرة",
-
-      "is_new": true,
-
-      "is_locked": true,
-
-      "target_timestamp": 1725072000,
-
-      "target_action": "unlock",
-
-      "featured": false,
-
-      "content_version": 1,
-
-      "updated_at": "2026-08-27"
-
-    }       
+      
     }
 
   ]

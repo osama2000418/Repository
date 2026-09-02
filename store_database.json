@@ -1,6 +1,6 @@
 {
 
-  "version": 126,
+  "version": 127,
 
   "VIP": {
 
@@ -193,6 +193,8 @@
       "pages": 520,
 
       "price": 50,
+      
+      "max_coins_increase": 200,
 
       "vip_points": 20,
 

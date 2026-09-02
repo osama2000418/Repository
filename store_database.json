@@ -1,6 +1,6 @@
 {
 
-  "version": 111,
+  "version": 112,
 
   "VIP": {
 
@@ -11,7 +11,21 @@
     "3": { "required_points": 1000, "price_discount": 30, "reward_bonus_percent": 20, "max_coins": 300 }
 
   },
-
+  
+  "VIP": {
+    "levels": {
+      "0": {
+        "max_coins": 100,
+        "required_points": 0
+      },
+      "1": {
+        "max_coins": 500,
+        "required_points": 100
+      },
+      "2": {
+        "max_coins": 1000,
+        "required_points": 300
+      },
   "categories": {
 
     "رعب": {

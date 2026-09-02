@@ -1,15 +1,15 @@
 {
 
-  "version": 129,
-"coin_limit_upgrades": [
-    { "cost": 50, "new_limit": 250 },
-    { "cost": 120, "new_limit": 500 },
-    { "cost": 300, "new_limit": 1000 },
-    { "cost": 750, "new_limit": 2500 },
-    { "cost": 1500, "new_limit": 5000 },
-    { "cost": 3000, "new_limit": 10000 },
-    { "cost": 6000, "new_limit": 20000 },
-    { "cost": 10000, "new_limit": 50000 }
+  "version": 130,
+"coin_upgrades": {
+    "1": {"cost": 50, "new_limit": 200},
+    "2": {"cost": 150, "new_limit": 500},
+    "3": {"cost": 400, "new_limit": 1000},
+    "4": {"cost": 800, "new_limit": 2500},
+    "5": {"cost": 1500, "new_limit": 5000},
+    "6": {"cost": 3000, "new_limit": 10000},
+    "7": {"cost": 6000, "new_limit": 25000},
+    "8": {"cost": 12000, "new_limit": 50000}
   ],
   "VIP": {
 

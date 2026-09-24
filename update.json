@@ -1,6 +1,23 @@
 {
   "version": "1.6.0",
-  "download_url": "https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com/upload2/game/4968130/19094296?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3edfcce40115d057d0b5606758e7e9ee%2F20260924%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260924T123052Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=ffb0108e6805954413e4f540959f527f451e2e2dd3de0da1cc9beec6f8d286fd",
-  "update_size": "505 MB",
-  "release_notes": "إصلاح الأخطاء وتحسين الأداء."
+  "min_required_version": "1.4.0",
+  "force_update": false,
+  "download_url": "https://USERNAME.itch.io/GAME",
+  "update_size": "48.2 MB",
+  "release_date": "2026-05-20",
+  "title": "تحديث المواسم والتحسينات الكبرى!",
+  "changelog": {
+    "new": [
+      "إضافة مرحلة جديدة في عالم الصحراء",
+      "إضافة نظام المهام اليومية والمكافآت"
+    ],
+    "fixes": [
+      "إصلاح مشكلة تعليق الحركة عند القفز",
+      "حل مشكلة انخفاض الإطارات في الهواتف الضعيفة"
+    ],
+    "improvements": [
+      "تحسين جودة المؤثرات الصوتية",
+      "تسريع زمن تحميل المشاهد بنسبة 30%"
+    ]
+  }
 }

@@ -1,15 +1,21 @@
 {
-  "version": 2,
+  "version": 3,
   "news": [
     {
       "title": "إطلاق التحديث الجديد للإصدار 1.5",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjBUCNYMYQh1ypPEknqU9gWoTkoVcijnJTSrwcBMIJXLuoM_aNfvOF25vM3OK5IMvLSX0xmspoTke7B6yY2CoNGYD8u9YAieMAp_wtW9f9gfGYU8nyK6BA-hBwdHisRQyCZZ0VQBjCnB86hI_-I-gt7hPrT4FqlTcuCTgWlEFKnf7R3rEdBtVaFRDq4u8/s1552/1000123145.png",
+      "thumbnail": "https://example.com/thumb.png",
       "status": "جديد",
       "date": "2026-09-26",
-      "content": "هنا يتم كتابة نص الخبر بالكامل، يمكن أن يكون طويلاً جداً وسيتكفل الـ ScrollContainer بعرضه بشكل ممتاز...",
-      "images": [
-        "https://example.com/img1.jpg",
-        "https://example.com/img2.png"
+      "summary": "ملخص قصير للخبر يظهر في البطاقة الرئيسية قبل فتح التفاصيل...",
+      "sections": [
+        {
+          "image": "https://example.com/img1.jpg",
+          "description": "هنا يتوفر شرح مفصل للصورة الأولى ضمن التغطية الإخبارية..."
+        },
+        {
+          "image": "https://example.com/img2.png",
+          "description": "هنا شرح وتحليل للصورة الثانية..."
+        }
       ]
     },
     {
@@ -17,9 +23,12 @@
       "thumbnail": "https://example.com/thumb2.png",
       "status": "قديم",
       "date": "2026-09-20",
-      "content": "تفاصيل الخبر القديم...",
-      "images": [
-        "https://example.com/img3.jpg"
+      "summary": "استعراض لأبرز الكواليس والتحديات البرمجية في المحرك...",
+      "sections": [
+        {
+          "image": "https://example.com/img3.jpg",
+          "description": "تفاصيل إضافية حول عملية التصميم والرسم..."
+        }
       ]
     }
   ]

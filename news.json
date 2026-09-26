@@ -2,32 +2,50 @@
   "version": 3,
   "news": [
     {
-      "title": "إطلاق التحديث الجديد للإصدار 1.5",
-      "thumbnail": "https://example.com/thumb.png",
-      "status": "جديد",
-      "date": "2026-09-26",
-      "summary": "ملخص قصير للخبر يظهر في البطاقة الرئيسية قبل فتح التفاصيل...",
-      "sections": [
+      "id": 1,
+      "title": "الفصل الثالث قريباً!",
+      "category": "الفصول",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjBUCNYMYQh1ypPEknqU9gWoTkoVcijnJTSrwcBMIJXLuoM_aNfvOF25vM3OK5IMvLSX0xmspoTke7B6yY2CoNGYD8u9YAieMAp_wtW9f9gfGYU8nyK6BA-hBwdHisRQyCZZ0VQBjCnB86hI_-I-gt7hPrT4FqlTcuCTgWlEFKnf7R3rEdBtVaFRDq4u8/s1552/1000123145.png",
+      "status": "تحديث جديد",
+      "date": "2026-10-15",
+      "summary": "مغامرات جديدة، أسرار أعمق، وتحقيقات أكثر إثارة في الفصل الثالث من اللعبة.",
+      "is_featured": true,
+      "blocks": [
         {
-          "image": "https://example.com/img1.jpg",
-          "description": "هنا يتوفر شرح مفصل للصورة الأولى ضمن التغطية الإخبارية..."
+          "type": "image",
+          "value": "https://example.com/img1.jpg"
         },
         {
-          "image": "https://example.com/img2.png",
-          "description": "هنا شرح وتحليل للصورة الثانية..."
+          "type": "text",
+          "value": "هنا يتم كتابة شرح وتفاصيل الصورة الأولى بأسلوب مشوق..."
+        },
+        {
+          "type": "image",
+          "value": "https://example.com/img2.jpg"
+        },
+        {
+          "type": "text",
+          "value": "وهنا يظهر الوصف التفصيلي للصورة الثانية أسفل منها مباشرة..."
         }
       ]
     },
     {
-      "title": "كواليس تطوير اللعبة",
-      "thumbnail": "https://example.com/thumb2.png",
-      "status": "قديم",
-      "date": "2026-09-20",
-      "summary": "استعراض لأبرز الكواليس والتحديات البرمجية في المحرك...",
-      "sections": [
+      "id": 2,
+      "title": "إضافة منطقة جديدة على الخريطة",
+      "category": "تحديثات",
+      "thumbnail": "https://example.com/thumb2.jpg",
+      "status": "تحديث",
+      "date": "2026-10-12",
+      "summary": "تمت إضافة منطقة جديدة إلى الخريطة مع مجموعة من المواقع...",
+      "is_featured": false,
+      "blocks": [
         {
-          "image": "https://example.com/img3.jpg",
-          "description": "تفاصيل إضافية حول عملية التصميم والرسم..."
+          "type": "image",
+          "value": "https://example.com/map_preview.jpg"
+        },
+        {
+          "type": "text",
+          "value": "تفاصيل المنطقة الجديدة وتحديثات الخريطة..."
         }
       ]
     }

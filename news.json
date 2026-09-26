@@ -1,32 +1,26 @@
 {
-  "version": 3,
+  "version": 2,
   "news": [
     {
-      "title": "الإعلان عن المحرك الجديد للألعاب، تفاصيل مبهرة!",
-      "summary": "نظرة أولى على أحدث تقنيات الإضاءة والأداء في التحديث القادم...",
-      "category": "تكنولوجيا",
-      "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+      "title": "إطلاق التحديث الجديد للإصدار 1.5",
+      "thumbnail": "https://example.com/thumb.png",
+      "status": "جديد",
       "date": "2026-09-26",
-      "content": "هذا النص هو محتوى الخبر الكامل. في التطبيقات المشهورة، يتم عرض الغلاف بشكل واسع في الأعلى، وينزلق هذا النص فوقه...",
-      "images": ["https://images.unsplash.com/photo-1550745165-9bc0b252726f"]
+      "content": "هنا يتم كتابة نص الخبر بالكامل، يمكن أن يكون طويلاً جداً وسيتكفل الـ ScrollContainer بعرضه بشكل ممتاز...",
+      "images": [
+        "https://example.com/img1.jpg",
+        "https://example.com/img2.png"
+      ]
     },
     {
-      "title": "كواليس تصميم البيئات ثلاثية الأبعاد",
-      "summary": "كيف قمنا بتحسين استهلاك الذاكرة بنسبة 40% على الهواتف...",
-      "category": "تطوير",
-      "thumbnail": "https://images.unsplash.com/photo-1614729939124-03290b5609ce",
-      "date": "2026-09-24",
-      "content": "نص الخبر الثاني وتفاصيله...",
-      "images": []
-    },
-    {
-      "title": "تحديث الخوادم وإصلاح المشاكل",
-      "summary": "تم الانتهاء من صيانة الخوادم الأسبوعية وإضافة ميزات جديدة للدردشة.",
-      "category": "صيانة",
-      "thumbnail": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+      "title": "كواليس تطوير اللعبة",
+      "thumbnail": "https://example.com/thumb2.png",
+      "status": "قديم",
       "date": "2026-09-20",
-      "content": "تفاصيل الصيانة هنا...",
-      "images": []
+      "content": "تفاصيل الخبر القديم...",
+      "images": [
+        "https://example.com/img3.jpg"
+      ]
     }
   ]
 }

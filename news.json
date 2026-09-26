@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "news": [
+    {
+      "title": "إطلاق التحديث الجديد للإصدار 1.5",
+      "thumbnail": "https://example.com/thumb.png",
+      "status": "جديد",
+      "date": "2026-09-26",
+      "content": "هنا يتم كتابة نص الخبر بالكامل، يمكن أن يكون طويلاً جداً وسيتكفل الـ ScrollContainer بعرضه بشكل ممتاز...",
+      "images": [
+        "https://example.com/img1.jpg",
+        "https://example.com/img2.png"
+      ]
+    },
+    {
+      "title": "كواليس تطوير اللعبة",
+      "thumbnail": "https://example.com/thumb2.png",
+      "status": "قديم",
+      "date": "2026-09-20",
+      "content": "تفاصيل الخبر القديم...",
+      "images": [
+        "https://example.com/img3.jpg"
+      ]
+    }
+  ]
+}

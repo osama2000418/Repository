@@ -1,0 +1,437 @@
+{
+  "version": 2,
+  "app_name": "حكاياتي - قصص وعملات",
+  "minimum_app_version": "1.0.0",
+  "updated_at": "2026-10-27T00:00:00Z",
+  "update_message": "نسخة GitHub الجاهزة الأولى — 9 روايات",
+  "update_policy": {
+    "check_on_app_start": true,
+    "background_check": true,
+    "minimum_background_interval_minutes": 15,
+    "require_higher_version": true
+  },
+  "daily_rewards": [
+    {
+      "day": 1,
+      "type": "coins",
+      "amount": 15
+    },
+    {
+      "day": 2,
+      "type": "coins",
+      "amount": 30
+    },
+    {
+      "day": 3,
+      "type": "coins",
+      "amount": 50
+    },
+    {
+      "day": 4,
+      "type": "capacity",
+      "amount": 1
+    },
+    {
+      "day": 5,
+      "type": "coins",
+      "amount": 100
+    },
+    {
+      "day": 6,
+      "type": "coins",
+      "amount": 150
+    },
+    {
+      "day": 7,
+      "type": "coins",
+      "amount": 300
+    }
+  ],
+  "gifts": [
+    {
+      "id": "welcome_gift_2026",
+      "title": "🎁 هدية الترحيب: 100 عملة مجانية",
+      "type": "coins",
+      "amount": 100
+    },
+    {
+      "id": "free_story_gift",
+      "title": "📚 هدية فتح رواية زولتا مجاناً",
+      "type": "unlock_story",
+      "story_id": 7
+    },
+    {
+      "id": "vault_expand_gift",
+      "title": "⚡ هدية توسيع الخزينة",
+      "type": "capacity",
+      "amount": 1
+    }
+  ],
+  "coin_upgrades": {
+    "1": {
+      "cost": 50,
+      "new_limit": 200
+    },
+    "2": {
+      "cost": 150,
+      "new_limit": 500
+    },
+    "3": {
+      "cost": 400,
+      "new_limit": 1000
+    }
+  },
+  "VIP": {
+    "1": {
+      "required_points": 200,
+      "price_discount": 10,
+      "reward_bonus_percent": 5,
+      "max_coins_increase": 100,
+      "free_capacity_upgrade": true,
+      "free_stories_ids": [
+        7
+      ]
+    },
+    "2": {
+      "required_points": 500,
+      "price_discount": 20,
+      "reward_bonus_percent": 10,
+      "max_coins_increase": 200,
+      "free_capacity_upgrade": true,
+      "free_stories_ids": [
+        7,
+        8
+      ]
+    },
+    "3": {
+      "required_points": 1000,
+      "price_discount": 30,
+      "reward_bonus_percent": 20,
+      "max_coins_increase": 300,
+      "free_capacity_upgrade": true,
+      "free_stories_ids": [
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  "categories": {
+    "رعب": {
+      "icon_url": "",
+      "emoji": "👻"
+    },
+    "غموض": {
+      "icon_url": "",
+      "emoji": "🔍"
+    },
+    "فانتازيا": {
+      "icon_url": "",
+      "emoji": "🔮"
+    },
+    "رومانسي": {
+      "icon_url": "",
+      "emoji": "💖"
+    },
+    "مغامرة": {
+      "icon_url": "",
+      "emoji": "🧭"
+    },
+    "خيال علمي": {
+      "icon_url": "",
+      "emoji": "🚀"
+    },
+    "جريمة": {
+      "icon_url": "",
+      "emoji": "🕵️"
+    },
+    "اخر التحديثات": {
+      "icon_url": "",
+      "emoji": "📚"
+    }
+  },
+  "sections": {
+    "best_this_month": {
+      "title": "الأكثر قراءة",
+      "icon": "⭐",
+      "stories": [
+        1,
+        2,
+        7
+      ]
+    },
+    "new_stories": {
+      "title": "روايات جديدة",
+      "icon": "🆕",
+      "stories": [
+        3,
+        6,
+        9
+      ]
+    },
+    "popular_stories": {
+      "title": "روايات شائعة",
+      "icon": "🔥",
+      "stories": [
+        1,
+        2,
+        3,
+        7
+      ]
+    },
+    "picked_for_you": {
+      "title": "اخترناها لك",
+      "icon": "🎯",
+      "stories": [
+        5,
+        6,
+        8
+      ]
+    }
+  },
+  "slides": [
+    {
+      "story_id": 1,
+      "title": "مملكة الظلال",
+      "tag": "🔥 الأكثر قراءة",
+      "description": "أسرار مملكة محرّمة بين الغموض والرعب.",
+      "image": ""
+    },
+    {
+      "story_id": 7,
+      "title": "زولتا: بوابة العوالم",
+      "tag": "✨ اختيار المحرر",
+      "description": "بوابة قديمة تفتح الطريق إلى عوالم متداخلة.",
+      "image": ""
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "title": "مملكة الظلال",
+      "author": "فريق قصص",
+      "cover": "",
+      "price": 50,
+      "rating": 4.8,
+      "genre": [
+        "رعب",
+        "غموض",
+        "فانتازيا"
+      ],
+      "tags": [
+        "أسرار",
+        "مملكة",
+        "وحوش"
+      ],
+      "description": "رواية غامضة تدور أحداثها في مملكة تخفي أسراراً مرعبة.",
+      "language": "العربية",
+      "age_rating": "16+",
+      "year": 2026,
+      "status": "مستمرة",
+      "is_new": true,
+      "content_version": 1,
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_1.json"
+    },
+    {
+      "id": 2,
+      "title": "مدينة الموتى",
+      "author": "فريق قصص",
+      "cover": "",
+      "price": 30,
+      "rating": 4.5,
+      "genre": [
+        "رعب",
+        "غموض"
+      ],
+      "tags": [
+        "مدينة",
+        "أسرار"
+      ],
+      "description": "مدينة مهجورة تخفي خلف شوارعها حكاية لا يريد أحد اكتشافها.",
+      "language": "العربية",
+      "age_rating": "16+",
+      "year": 2026,
+      "status": "مكتملة",
+      "is_new": false,
+      "content_version": 1,
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_2.json"
+    },
+    {
+      "id": 3,
+      "title": "سحر المقابر",
+      "author": "زينب ماجد",
+      "cover": "",
+      "price": 30,
+      "rating": 4.8,
+      "genre": [
+        "رعب",
+        "فانتازيا"
+      ],
+      "tags": [
+        "سحر",
+        "مقابر"
+      ],
+      "description": "رسالة مجهولة تقود فتاة إلى مقبرة لا تظهر على الخرائط.",
+      "language": "العربية",
+      "age_rating": "16+",
+      "year": 2026,
+      "status": "مستمرة",
+      "is_new": true,
+      "content_version": 1,
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_3.json"
+    },
+    {
+      "id": 4,
+      "title": "آخر الناجين",
+      "author": "عمر الكاتب",
+      "cover": "",
+      "price": 25,
+      "rating": 4.5,
+      "genre": [
+        "خيال علمي",
+        "مغامرة"
+      ],
+      "tags": [
+        "نجاة",
+        "مستقبل"
+      ],
+      "description": "في عالم انقطع فيه الاتصال، يحاول آخر الناجين العثور على محطة آمنة.",
+      "language": "العربية",
+      "age_rating": "16+",
+      "year": 2026,
+      "status": "مستمرة",
+      "is_new": false,
+      "content_version": 1,
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_4.json"
+    },
+    {
+      "id": 5,
+      "title": "رسائل من الغائب",
+      "author": "نور الهدى",
+      "cover": "",
+      "price": 20,
+      "rating": 4.8,
+      "genre": [
+        "رومانسي",
+        "غموض"
+      ],
+      "tags": [
+        "رسائل",
+        "حب"
+      ],
+      "description": "رسائل تصل كل أسبوع من شخص اختفى قبل سنوات.",
+      "language": "العربية",
+      "age_rating": "16+",
+      "year": 2026,
+      "status": "مستمرة",
+      "is_new": false,
+      "content_version": 1,
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_5.json"
+    },
+    {
+      "id": 6,
+      "title": "أكاديمية السحر",
+      "author": "فريق قصص",
+      "cover": "",
+      "price": 35,
+      "rating": 4.5,
+      "genre": [
+        "فانتازيا",
+        "مغامرة"
+      ],
+      "tags": [
+        "سحر",
+        "أكاديمية"
+      ],
+      "description": "طالب جديد يكتشف أن دخوله الأكاديمية لم يكن مصادفة.",
+      "language": "العربية",
+      "age_rating": "16+",
+      "year": 2026,
+      "status": "مستمرة",
+      "is_new": true,
+      "content_version": 1,
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_6.json"
+    },
+    {
+      "id": 7,
+      "title": "زولتا: بوابة العوالم",
+      "author": "فريق قصص",
+      "cover": "",
+      "price": 45,
+      "rating": 4.8,
+      "genre": [
+        "فانتازيا",
+        "مغامرة"
+      ],
+      "tags": [
+        "بوابة",
+        "عوالم"
+      ],
+      "description": "بوابة قديمة تفتح الطريق إلى عوالم متداخلة.",
+      "language": "العربية",
+      "age_rating": "16+",
+      "year": 2026,
+      "status": "مستمرة",
+      "is_new": false,
+      "content_version": 1,
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_7.json"
+    },
+    {
+      "id": 8,
+      "title": "ظلّ القمر",
+      "author": "سارة علي",
+      "cover": "",
+      "price": 28,
+      "rating": 4.5,
+      "genre": [
+        "رومانسي",
+        "فانتازيا"
+      ],
+      "tags": [
+        "قمر",
+        "وعد"
+      ],
+      "description": "حكاية وعد قديم يعود مع اكتمال القمر.",
+      "language": "العربية",
+      "age_rating": "16+",
+      "year": 2026,
+      "status": "مستمرة",
+      "is_new": false,
+      "content_version": 1,
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_8.json"
+    },
+    {
+      "id": 9,
+      "title": "ملف القضية 09",
+      "author": "حيدر سالم",
+      "cover": "",
+      "price": 32,
+      "rating": 4.8,
+      "genre": [
+        "غموض",
+        "جريمة"
+      ],
+      "tags": [
+        "تحقيق",
+        "أدلة"
+      ],
+      "description": "محقق يتتبع قضية أغلقت قبل أن تبدأ الأدلة بالظهور مجدداً.",
+      "language": "العربية",
+      "age_rating": "16+",
+      "year": 2026,
+      "status": "مكتملة",
+      "is_new": true,
+      "content_version": 1,
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_9.json"
+    }
+  ]
+}

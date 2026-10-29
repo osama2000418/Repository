@@ -445,6 +445,15 @@
       "is_featured": false
     },
     {
+  "id": "release_004",
+  "story_id": 4,
+  "release_at": "2026-11-18T17:30:00Z",
+  "month_label": "نوفمبر 2026",
+  "day_label": "الأربعاء · 18 نوفمبر",
+  "release_label": "الفصل القادم",
+  "note": "موعد نشر الفصل الجديد"
+},
+    {
       "id": 8,
       "title": "ظلّ القمر",
       "author": "سارة علي",

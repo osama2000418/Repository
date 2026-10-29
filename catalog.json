@@ -1,9 +1,9 @@
 {
-  "version": 3,
+  "version": 6,
   "app_name": "حكاياتي - قصص وعملات",
   "minimum_app_version": "1.0.0",
-  "updated_at": "2026-10-27T00:00:00Z",
-  "update_message": "نسخة GitHub الجاهزة الأولى — 9 روايات",
+  "updated_at": "2026-10-29T00:00:00Z",
+  "update_message": "واجهة مكتبة احترافية وشريط VIP وخصومات فعلية وفتح روايات VIP مجاناً",
   "update_policy": {
     "check_on_app_start": true,
     "background_check": true,
@@ -148,6 +148,18 @@
     "اخر التحديثات": {
       "icon_url": "",
       "emoji": "📚"
+    },
+    "دراما": {
+      "icon_url": "",
+      "emoji": "🎭"
+    },
+    "سحر": {
+      "icon_url": "",
+      "emoji": "✨"
+    },
+    "تحقيق": {
+      "icon_url": "",
+      "emoji": "🕵️"
     }
   },
   "sections": {
@@ -195,7 +207,7 @@
       "title": "مملكة الظلال",
       "tag": "🔥 الأكثر قراءة",
       "description": "أسرار مملكة محرّمة بين الغموض والرعب.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92Ip0bVelCaWusLgJuwOzjSQuGdUwEckDoGdFrEmql3_Vw__CSqjCullTaqWFtatnTAfzsJlStMm6ZvTGiQZHbZmnfJTak5v351rZzhWbSM6W-ujkgHIwsWN1u7oaP9PhjFGkE8iFhfw6cUyEjuOWdy6GrcjemuHIdiWCVyvY_QJm7UYnA6QQLeJcyg/s495/9052.jpg"
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&h=900&q=85"
     },
     {
       "story_id": 7,
@@ -232,7 +244,13 @@
       "content_version": 1,
       "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_1.json",
-      "cover_source": "Unsplash"
+      "cover_source": "Unsplash",
+      "classification_badge": {
+        "color": "blue",
+        "symbol": "16+",
+        "label": "لليافعين 16+"
+      },
+      "is_featured": true
     },
     {
       "id": 2,
@@ -258,7 +276,13 @@
       "content_version": 1,
       "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_2.json",
-      "cover_source": "Unsplash"
+      "cover_source": "Unsplash",
+      "classification_badge": {
+        "color": "blue",
+        "symbol": "16+",
+        "label": "لليافعين 16+"
+      },
+      "is_featured": true
     },
     {
       "id": 3,
@@ -284,7 +308,13 @@
       "content_version": 1,
       "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_3.json",
-      "cover_source": "Unsplash"
+      "cover_source": "Unsplash",
+      "classification_badge": {
+        "color": "blue",
+        "symbol": "16+",
+        "label": "لليافعين 16+"
+      },
+      "is_featured": true
     },
     {
       "id": 4,
@@ -310,7 +340,13 @@
       "content_version": 1,
       "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_4.json",
-      "cover_source": "Unsplash"
+      "cover_source": "Unsplash",
+      "classification_badge": {
+        "color": "blue",
+        "symbol": "16+",
+        "label": "لليافعين 16+"
+      },
+      "is_featured": true
     },
     {
       "id": 5,
@@ -336,7 +372,13 @@
       "content_version": 1,
       "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_5.json",
-      "cover_source": "Unsplash"
+      "cover_source": "Unsplash",
+      "classification_badge": {
+        "color": "blue",
+        "symbol": "16+",
+        "label": "لليافعين 16+"
+      },
+      "is_featured": true
     },
     {
       "id": 6,
@@ -362,7 +404,13 @@
       "content_version": 1,
       "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_6.json",
-      "cover_source": "Unsplash"
+      "cover_source": "Unsplash",
+      "classification_badge": {
+        "color": "blue",
+        "symbol": "16+",
+        "label": "لليافعين 16+"
+      },
+      "is_featured": false
     },
     {
       "id": 7,
@@ -388,7 +436,13 @@
       "content_version": 1,
       "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_7.json",
-      "cover_source": "Unsplash"
+      "cover_source": "Unsplash",
+      "classification_badge": {
+        "color": "blue",
+        "symbol": "16+",
+        "label": "لليافعين 16+"
+      },
+      "is_featured": false
     },
     {
       "id": 8,
@@ -414,7 +468,13 @@
       "content_version": 1,
       "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_8.json",
-      "cover_source": "Unsplash"
+      "cover_source": "Unsplash",
+      "classification_badge": {
+        "color": "blue",
+        "symbol": "16+",
+        "label": "لليافعين 16+"
+      },
+      "is_featured": false
     },
     {
       "id": 9,
@@ -440,7 +500,21 @@
       "content_version": 1,
       "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_9.json",
-      "cover_source": "Unsplash"
+      "cover_source": "Unsplash",
+      "classification_badge": {
+        "color": "blue",
+        "symbol": "16+",
+        "label": "لليافعين 16+"
+      },
+      "is_featured": false
     }
-  ]
+  ],
+  "featured_stories": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "vip_points_per_coin_spent": 1
 }

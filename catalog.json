@@ -1,9 +1,9 @@
 {
-  "version": 8,
+  "version": 9,
   "app_name": "حكاياتي - قصص وعملات",
   "minimum_app_version": "1.0.0",
-  "updated_at": "2026-10-29T00:00:00Z",
-  "update_message": "واجهة مكتبة احترافية وشريط VIP وخصومات فعلية وفتح روايات VIP مجاناً",
+  "updated_at": "2026-10-30T00:00:00Z",
+  "update_message": "إضافة سلايدر تلقائي متحرك للمكتبة ومؤشر شرائح احترافي وتحديث رمز الحماية",
   "update_policy": {
     "check_on_app_start": true,
     "background_check": true,
@@ -215,6 +215,13 @@
       "tag": "✨ اختيار المحرر",
       "description": "بوابة قديمة تفتح الطريق إلى عوالم متداخلة.",
       "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=600&h=900&q=85"
+    },
+    {
+      "story_id": 9,
+      "title": "ملف القضية 09",
+      "tag": "🔍 قضية تستحق الاكتشاف",
+      "description": "محقق يتتبع أدلة قضية عادت من الأرشيف.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=600&h=900&q=85"
     }
   ],
   "stories": [
@@ -222,7 +229,7 @@
       "id": 1,
       "title": "مملكة الظلال",
       "author": "فريق قصص",
-      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho870YfMNw7wksHA60DjVzv0-a_8Ko2K88T-G7HKMVHTe5bs-8o1V8hCCH8esednvJKzxq2Rzkl63HrOOJ4RFl5Tu94bQC_IFcCqf5MObfeonAKhacLd7hHLS-TmVd9numKN7f-4pZrBS_bNc5uUiwQyw9CF5UaV6gLz3sSC4Wd7c_OHLuQZAwQwqANaY/s547/9053.jpg",
+      "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 50,
       "rating": 4.8,
       "genre": [
@@ -288,7 +295,7 @@
       "id": 3,
       "title": "سحر المقابر",
       "author": "زينب ماجد",
-      "cover": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=600&h=900&q=85",
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho870YfMNw7wksHA60DjVzv0-a_8Ko2K88T-G7HKMVHTe5bs-8o1V8hCCH8esednvJKzxq2Rzkl63HrOOJ4RFl5Tu94bQC_IFcCqf5MObfeonAKhacLd7hHLS-TmVd9numKN7f-4pZrBS_bNc5uUiwQyw9CF5UaV6gLz3sSC4Wd7c_OHLuQZAwQwqANaY/s547/9053.jpg",
       "price": 30,
       "rating": 4.8,
       "genre": [
@@ -445,15 +452,6 @@
       "is_featured": false
     },
     {
-  "id": "release_004",
-  "story_id": 4,
-  "release_at": "2026-11-18T17:30:00Z",
-  "month_label": "نوفمبر 2026",
-  "day_label": "الأربعاء · 18 نوفمبر",
-  "release_label": "الفصل القادم",
-  "note": "موعد نشر الفصل الجديد"
-},
-    {
       "id": 8,
       "title": "ظلّ القمر",
       "author": "سارة علي",
@@ -525,5 +523,34 @@
     4,
     5
   ],
-  "vip_points_per_coin_spent": 1
+  "vip_points_per_coin_spent": 1,
+  "release_schedule": [
+    {
+      "id": "release_001",
+      "story_id": 1,
+      "release_at": "2026-11-01T18:00:00Z",
+      "month_label": "نوفمبر 2026",
+      "day_label": "الأحد · 1 نوفمبر",
+      "release_label": "الفصل الرابع",
+      "note": "موعد نشر الفصل الجديد"
+    },
+    {
+      "id": "release_002",
+      "story_id": 3,
+      "release_at": "2026-11-05T16:30:00Z",
+      "month_label": "نوفمبر 2026",
+      "day_label": "الخميس · 5 نوفمبر",
+      "release_label": "الفصل الثالث",
+      "note": "حلقة جديدة من الرواية"
+    },
+    {
+      "id": "release_003",
+      "story_id": 7,
+      "release_at": "2026-11-12T19:00:00Z",
+      "month_label": "نوفمبر 2026",
+      "day_label": "الخميس · 12 نوفمبر",
+      "release_label": "تحديث الرواية",
+      "note": "موعد الإصدار القادم"
+    }
+  ]
 }

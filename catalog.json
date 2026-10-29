@@ -195,14 +195,14 @@
       "title": "مملكة الظلال",
       "tag": "🔥 الأكثر قراءة",
       "description": "أسرار مملكة محرّمة بين الغموض والرعب.",
-      "image": ""
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&h=900&q=85"
     },
     {
       "story_id": 7,
       "title": "زولتا: بوابة العوالم",
       "tag": "✨ اختيار المحرر",
       "description": "بوابة قديمة تفتح الطريق إلى عوالم متداخلة.",
-      "image": ""
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=600&h=900&q=85"
     }
   ],
   "stories": [
@@ -210,7 +210,7 @@
       "id": 1,
       "title": "مملكة الظلال",
       "author": "فريق قصص",
-      "cover": "",
+      "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 50,
       "rating": 4.8,
       "genre": [
@@ -231,13 +231,14 @@
       "is_new": true,
       "content_version": 1,
       "updated_at": "2026-10-27",
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_1.json"
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_1.json",
+      "cover_source": "Unsplash"
     },
     {
       "id": 2,
       "title": "مدينة الموتى",
       "author": "فريق قصص",
-      "cover": "",
+      "cover": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 30,
       "rating": 4.5,
       "genre": [
@@ -256,13 +257,14 @@
       "is_new": false,
       "content_version": 1,
       "updated_at": "2026-10-27",
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_2.json"
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_2.json",
+      "cover_source": "Unsplash"
     },
     {
       "id": 3,
       "title": "سحر المقابر",
       "author": "زينب ماجد",
-      "cover": "",
+      "cover": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 30,
       "rating": 4.8,
       "genre": [
@@ -281,13 +283,14 @@
       "is_new": true,
       "content_version": 1,
       "updated_at": "2026-10-27",
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_3.json"
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_3.json",
+      "cover_source": "Unsplash"
     },
     {
       "id": 4,
       "title": "آخر الناجين",
       "author": "عمر الكاتب",
-      "cover": "",
+      "cover": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 25,
       "rating": 4.5,
       "genre": [
@@ -306,13 +309,14 @@
       "is_new": false,
       "content_version": 1,
       "updated_at": "2026-10-27",
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_4.json"
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_4.json",
+      "cover_source": "Unsplash"
     },
     {
       "id": 5,
       "title": "رسائل من الغائب",
       "author": "نور الهدى",
-      "cover": "",
+      "cover": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 20,
       "rating": 4.8,
       "genre": [
@@ -331,13 +335,14 @@
       "is_new": false,
       "content_version": 1,
       "updated_at": "2026-10-27",
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_5.json"
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_5.json",
+      "cover_source": "Unsplash"
     },
     {
       "id": 6,
       "title": "أكاديمية السحر",
       "author": "فريق قصص",
-      "cover": "",
+      "cover": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 35,
       "rating": 4.5,
       "genre": [
@@ -356,13 +361,14 @@
       "is_new": true,
       "content_version": 1,
       "updated_at": "2026-10-27",
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_6.json"
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_6.json",
+      "cover_source": "Unsplash"
     },
     {
       "id": 7,
       "title": "زولتا: بوابة العوالم",
       "author": "فريق قصص",
-      "cover": "",
+      "cover": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 45,
       "rating": 4.8,
       "genre": [
@@ -381,13 +387,14 @@
       "is_new": false,
       "content_version": 1,
       "updated_at": "2026-10-27",
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_7.json"
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_7.json",
+      "cover_source": "Unsplash"
     },
     {
       "id": 8,
       "title": "ظلّ القمر",
       "author": "سارة علي",
-      "cover": "",
+      "cover": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 28,
       "rating": 4.5,
       "genre": [
@@ -406,13 +413,14 @@
       "is_new": false,
       "content_version": 1,
       "updated_at": "2026-10-27",
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_8.json"
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_8.json",
+      "cover_source": "Unsplash"
     },
     {
       "id": 9,
       "title": "ملف القضية 09",
       "author": "حيدر سالم",
-      "cover": "",
+      "cover": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 32,
       "rating": 4.8,
       "genre": [
@@ -431,7 +439,8 @@
       "is_new": true,
       "content_version": 1,
       "updated_at": "2026-10-27",
-      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_9.json"
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_9.json",
+      "cover_source": "Unsplash"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": 7,
+  "title": "زولتا: بوابة العوالم",
+  "author": "فريق قصص",
+  "description": "بوابة قديمة تفتح الطريق إلى عوالم متداخلة.",
+  "content_version": 1,
+  "updated_at": "2026-10-27T00:00:00Z",
+  "episodes": [
+    {
+      "id": "s7e1",
+      "number": 1,
+      "title": "مدينة خلف المرآة",
+      "price": 0,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s7e1.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "s7e2",
+      "number": 2,
+      "title": "ثمن العبور",
+      "price": 12,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s7e2.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    }
+  ]
+}

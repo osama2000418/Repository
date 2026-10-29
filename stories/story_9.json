@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": 9,
+  "title": "ملف القضية 09",
+  "author": "حيدر سالم",
+  "description": "محقق يتتبع قضية أغلقت قبل أن تبدأ الأدلة بالظهور مجدداً.",
+  "content_version": 1,
+  "updated_at": "2026-10-27T00:00:00Z",
+  "episodes": [
+    {
+      "id": "s9e1",
+      "number": 1,
+      "title": "الملف المغلق",
+      "price": 0,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s9e1.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "s9e2",
+      "number": 2,
+      "title": "الشاهد الأخير",
+      "price": 14,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s9e2.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    }
+  ]
+}

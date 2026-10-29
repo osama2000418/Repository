@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": 5,
+  "title": "رسائل من الغائب",
+  "author": "نور الهدى",
+  "description": "رسائل تصل كل أسبوع من شخص اختفى قبل سنوات.",
+  "content_version": 1,
+  "updated_at": "2026-10-27T00:00:00Z",
+  "episodes": [
+    {
+      "id": "s5e1",
+      "number": 1,
+      "title": "الرسالة الأولى",
+      "price": 0,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s5e1.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "s5e2",
+      "number": 2,
+      "title": "موعد قديم",
+      "price": 10,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s5e2.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    }
+  ]
+}

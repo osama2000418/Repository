@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": 8,
+  "title": "ظلّ القمر",
+  "author": "سارة علي",
+  "description": "حكاية وعد قديم يعود مع اكتمال القمر.",
+  "content_version": 1,
+  "updated_at": "2026-10-27T00:00:00Z",
+  "episodes": [
+    {
+      "id": "s8e1",
+      "number": 1,
+      "title": "حين اكتمل القمر",
+      "price": 0,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s8e1.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "s8e2",
+      "number": 2,
+      "title": "الوعد",
+      "price": 13,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s8e2.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    }
+  ]
+}

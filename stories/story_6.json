@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": 6,
+  "title": "أكاديمية السحر",
+  "author": "فريق قصص",
+  "description": "طالب جديد يكتشف أن دخوله الأكاديمية لم يكن مصادفة.",
+  "content_version": 1,
+  "updated_at": "2026-10-27T00:00:00Z",
+  "episodes": [
+    {
+      "id": "s6e1",
+      "number": 1,
+      "title": "البوابة الزرقاء",
+      "price": 0,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s6e1.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "s6e2",
+      "number": 2,
+      "title": "اختبار المبتدئين",
+      "price": 11,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s6e2.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    }
+  ]
+}

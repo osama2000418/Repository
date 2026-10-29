@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": 4,
+  "title": "آخر الناجين",
+  "author": "عمر الكاتب",
+  "description": "في عالم انقطع فيه الاتصال، يحاول آخر الناجين العثور على محطة آمنة.",
+  "content_version": 1,
+  "updated_at": "2026-10-27T00:00:00Z",
+  "episodes": [
+    {
+      "id": "s4e1",
+      "number": 1,
+      "title": "إشارة أخيرة",
+      "price": 0,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s4e1.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "s4e2",
+      "number": 2,
+      "title": "المحطة الصامتة",
+      "price": 9,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s4e2.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": 2,
+  "title": "مدينة الموتى",
+  "author": "فريق قصص",
+  "description": "مدينة مهجورة تخفي خلف شوارعها حكاية لا يريد أحد اكتشافها.",
+  "content_version": 1,
+  "updated_at": "2026-10-27T00:00:00Z",
+  "episodes": [
+    {
+      "id": "s2e1",
+      "number": 1,
+      "title": "الشارع الصامت",
+      "price": 0,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s2e1.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "s2e2",
+      "number": 2,
+      "title": "الاسم على الجدار",
+      "price": 7,
+      "discount_percent": 0,
+      "gift": false,
+      "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s2e2.txt",
+      "content_version": 1,
+      "updated_at": "2026-10-27"
+    }
+  ]
+}

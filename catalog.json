@@ -1,6 +1,15 @@
 {
-  "version": 12,
-  "app_name": "قصص وعملات",
+  "version": 7,
+  "app_name": "حكاياتي - قصص وعملات",
+  "minimum_app_version": "1.0.0",
+  "updated_at": "2026-10-30T00:00:00Z",
+  "update_message": "إضافة سلايدر تلقائي متحرك للمكتبة ومؤشر شرائح احترافي وتحديث رمز الحماية",
+  "update_policy": {
+    "check_on_app_start": true,
+    "background_check": true,
+    "minimum_background_interval_minutes": 15,
+    "require_higher_version": true
+  },
   "daily_rewards": [
     {
       "day": 1,
@@ -41,7 +50,7 @@
   "gifts": [
     {
       "id": "welcome_gift_2026",
-      "title": "🎁 هدية الترحيب: 100 عملة مجانية!",
+      "title": "🎁 هدية الترحيب: 100 عملة مجانية",
       "type": "coins",
       "amount": 100
     },
@@ -53,7 +62,7 @@
     },
     {
       "id": "vault_expand_gift",
-      "title": "⚡ هدية توسيع سعة الخزينة +1",
+      "title": "⚡ هدية توسيع الخزينة",
       "type": "capacity",
       "amount": 1
     }
@@ -124,10 +133,6 @@
       "icon_url": "",
       "emoji": "💖"
     },
-    "اخر التحديثات": {
-      "icon_url": "",
-      "emoji": "📚"
-    },
     "مغامرة": {
       "icon_url": "",
       "emoji": "🧭"
@@ -135,6 +140,14 @@
     "خيال علمي": {
       "icon_url": "",
       "emoji": "🚀"
+    },
+    "جريمة": {
+      "icon_url": "",
+      "emoji": "🕵️"
+    },
+    "اخر التحديثات": {
+      "icon_url": "",
+      "emoji": "📚"
     },
     "دراما": {
       "icon_url": "",
@@ -155,15 +168,17 @@
       "icon": "⭐",
       "stories": [
         1,
-        2
+        2,
+        7
       ]
     },
     "new_stories": {
       "title": "روايات جديدة",
       "icon": "🆕",
       "stories": [
-        1,
-        3
+        3,
+        6,
+        9
       ]
     },
     "popular_stories": {
@@ -172,15 +187,17 @@
       "stories": [
         1,
         2,
-        3
+        3,
+        7
       ]
     },
     "picked_for_you": {
       "title": "اخترناها لك",
       "icon": "🎯",
       "stories": [
-        2,
-        1
+        5,
+        6,
+        8
       ]
     }
   },
@@ -198,6 +215,13 @@
       "tag": "✨ اختيار المحرر",
       "description": "بوابة قديمة تفتح الطريق إلى عوالم متداخلة.",
       "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=600&h=900&q=85"
+    },
+    {
+      "story_id": 9,
+      "title": "ملف القضية 09",
+      "tag": "🔍 قضية تستحق الاكتشاف",
+      "description": "محقق يتتبع أدلة قضية عادت من الأرشيف.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=600&h=900&q=85"
     }
   ],
   "stories": [
@@ -207,7 +231,7 @@
       "author": "فريق قصص",
       "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 50,
-      "rating": 5.0,
+      "rating": 4.8,
       "genre": [
         "رعب",
         "غموض",
@@ -226,38 +250,7 @@
       "is_new": true,
       "content_version": 1,
       "updated_at": "2026-10-27",
-      "episodes": [
-        {
-          "id": "s1e1",
-          "number": 1,
-          "title": "الباب الذي لا يُفتح",
-          "price": 0,
-          "discount_percent": 0,
-          "gift": false,
-          "content": "في أطراف المملكة، كان هناك باب أسود لا يقترب منه أحد. في ليلة باردة، سمع يامن صوتاً يناديه من خلفه...\n\nلم يكن الصوت صوت إنسان يعرفه، لكنه نطق اسمه بوضوح. اقترب خطوة، فاهتزت الرموز المحفورة على الباب وظهر ضوء أزرق خافت.",
-          "content_version": 1
-        },
-        {
-          "id": "s1e2",
-          "number": 2,
-          "title": "همسات تحت القصر",
-          "price": 8,
-          "discount_percent": 15,
-          "gift": false,
-          "content": "في الصباح، أخبر يامن حارسة المكتبة بما سمعه. تغيّر وجهها فوراً، ثم أغلقت النوافذ وقالت: هناك أشياء في هذا القصر يجب أن تبقى نائمة.\n\nعند منتصف الليل، عاد الهمس من تحت الأرض، هذه المرة مصحوباً بخطوات بطيئة.",
-          "content_version": 1
-        },
-        {
-          "id": "s1e3",
-          "number": 3,
-          "title": "هدية الفصل الثالث",
-          "price": 12,
-          "discount_percent": 50,
-          "gift": true,
-          "content": "وجد يامن مفتاحاً صغيراً تحت سجادة قديمة. كان المفتاح بارداً كالجليد، وعلى رأسه نقش يشبه الهلال. عندما لمسه، سمع صوت الحارسة: إن فتحت الباب، فلن تعود كما كنت.",
-          "content_version": 1
-        }
-      ],
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_1.json",
       "cover_source": "Unsplash",
       "classification_badge": {
         "color": "blue",
@@ -286,29 +279,10 @@
       "age_rating": "16+",
       "year": 2026,
       "status": "مكتملة",
+      "is_new": false,
       "content_version": 1,
-      "episodes": [
-        {
-          "id": "s2e1",
-          "number": 1,
-          "title": "الشارع الصامت",
-          "price": 0,
-          "discount_percent": 0,
-          "gift": false,
-          "content": "لم تكن في المدينة نافذة مضاءة واحدة. ومع ذلك، كان كل باب مفتوحاً قليلاً، وكأن السكان خرجوا على عجل ثم نسوا العودة.",
-          "content_version": 1
-        },
-        {
-          "id": "s2e2",
-          "number": 2,
-          "title": "الاسم على الجدار",
-          "price": 6,
-          "discount_percent": 15,
-          "gift": false,
-          "content": "وجدت ليلى اسمها محفوراً على جدار المحطة، وتحته تاريخ الغد. لم تكن قد زارت المدينة من قبل، أو هكذا كانت تظن.",
-          "content_version": 1
-        }
-      ],
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_2.json",
       "cover_source": "Unsplash",
       "classification_badge": {
         "color": "blue",
@@ -323,7 +297,7 @@
       "author": "زينب ماجد",
       "cover": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 30,
-      "rating": 5.0,
+      "rating": 4.8,
       "genre": [
         "رعب",
         "فانتازيا"
@@ -332,35 +306,15 @@
         "سحر",
         "مقابر"
       ],
-      "description": "حكاية فانتازيا ورعب تبدأ برسالة مجهولة عند منتصف الليل.",
+      "description": "رسالة مجهولة تقود فتاة إلى مقبرة لا تظهر على الخرائط.",
       "language": "العربية",
       "age_rating": "16+",
       "year": 2026,
       "status": "مستمرة",
       "is_new": true,
       "content_version": 1,
-      "episodes": [
-        {
-          "id": "s3e1",
-          "number": 1,
-          "title": "رسالة منتصف الليل",
-          "price": 0,
-          "discount_percent": 0,
-          "gift": false,
-          "content": "وصلت الرسالة بلا اسم مرسل. كانت كلماتها قصيرة: لا تذهبي إلى المقبرة القديمة الليلة. لكن الرسالة وصلت من رقمها هي.",
-          "content_version": 1
-        },
-        {
-          "id": "s3e2",
-          "number": 2,
-          "title": "الشمعة السوداء",
-          "price": 5,
-          "discount_percent": 15,
-          "gift": false,
-          "content": "أضاءت الشمعة السوداء وحدها، وظهر على المرآة بخار رسم دائرة حول اسم لم تسمعه من قبل.",
-          "content_version": 1
-        }
-      ],
+      "updated_at": "2026-10-27",
+      "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_3.json",
       "cover_source": "Unsplash",
       "classification_badge": {
         "color": "blue",
@@ -374,49 +328,25 @@
       "title": "آخر الناجين",
       "author": "عمر الكاتب",
       "cover": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=600&h=900&q=85",
-      "price": 9,
-      "rating": 4.6,
+      "price": 25,
+      "rating": 4.5,
       "genre": [
-        "مغامرة",
-        "خيال علمي"
+        "خيال علمي",
+        "مغامرة"
       ],
       "tags": [
-        "مغامرة",
-        "خيال علمي"
+        "نجاة",
+        "مستقبل"
       ],
       "description": "في عالم انقطع فيه الاتصال، يحاول آخر الناجين العثور على محطة آمنة.",
       "language": "العربية",
       "age_rating": "16+",
       "year": 2026,
       "status": "مستمرة",
-      "is_new": true,
+      "is_new": false,
       "content_version": 1,
-      "updated_at": "2026-10-27T00:00:00Z",
+      "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_4.json",
-      "episodes": [
-        {
-          "id": "s4e1",
-          "number": 1,
-          "title": "إشارة أخيرة",
-          "price": 0,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s4e1.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        },
-        {
-          "id": "s4e2",
-          "number": 2,
-          "title": "المحطة الصامتة",
-          "price": 9,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s4e2.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        }
-      ],
       "cover_source": "Unsplash",
       "classification_badge": {
         "color": "blue",
@@ -430,49 +360,25 @@
       "title": "رسائل من الغائب",
       "author": "نور الهدى",
       "cover": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=600&h=900&q=85",
-      "price": 10,
-      "rating": 4.6,
+      "price": 20,
+      "rating": 4.8,
       "genre": [
-        "غموض",
-        "دراما"
+        "رومانسي",
+        "غموض"
       ],
       "tags": [
-        "غموض",
-        "دراما"
+        "رسائل",
+        "حب"
       ],
       "description": "رسائل تصل كل أسبوع من شخص اختفى قبل سنوات.",
       "language": "العربية",
       "age_rating": "16+",
       "year": 2026,
       "status": "مستمرة",
-      "is_new": true,
+      "is_new": false,
       "content_version": 1,
-      "updated_at": "2026-10-27T00:00:00Z",
+      "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_5.json",
-      "episodes": [
-        {
-          "id": "s5e1",
-          "number": 1,
-          "title": "الرسالة الأولى",
-          "price": 0,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s5e1.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        },
-        {
-          "id": "s5e2",
-          "number": 2,
-          "title": "موعد قديم",
-          "price": 10,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s5e2.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        }
-      ],
       "cover_source": "Unsplash",
       "classification_badge": {
         "color": "blue",
@@ -486,15 +392,15 @@
       "title": "أكاديمية السحر",
       "author": "فريق قصص",
       "cover": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=600&h=900&q=85",
-      "price": 11,
-      "rating": 4.6,
+      "price": 35,
+      "rating": 4.5,
       "genre": [
         "فانتازيا",
-        "سحر"
+        "مغامرة"
       ],
       "tags": [
-        "فانتازيا",
-        "سحر"
+        "سحر",
+        "أكاديمية"
       ],
       "description": "طالب جديد يكتشف أن دخوله الأكاديمية لم يكن مصادفة.",
       "language": "العربية",
@@ -503,207 +409,111 @@
       "status": "مستمرة",
       "is_new": true,
       "content_version": 1,
-      "updated_at": "2026-10-27T00:00:00Z",
+      "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_6.json",
-      "episodes": [
-        {
-          "id": "s6e1",
-          "number": 1,
-          "title": "البوابة الزرقاء",
-          "price": 0,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s6e1.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        },
-        {
-          "id": "s6e2",
-          "number": 2,
-          "title": "اختبار المبتدئين",
-          "price": 11,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s6e2.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        }
-      ],
       "cover_source": "Unsplash",
       "classification_badge": {
         "color": "blue",
         "symbol": "16+",
         "label": "لليافعين 16+"
       },
-      "is_featured": true
+      "is_featured": false
     },
     {
       "id": 7,
       "title": "زولتا: بوابة العوالم",
       "author": "فريق قصص",
       "cover": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=600&h=900&q=85",
-      "price": 12,
-      "rating": 4.6,
+      "price": 45,
+      "rating": 4.8,
       "genre": [
         "فانتازيا",
         "مغامرة"
       ],
       "tags": [
-        "فانتازيا",
-        "مغامرة"
+        "بوابة",
+        "عوالم"
       ],
       "description": "بوابة قديمة تفتح الطريق إلى عوالم متداخلة.",
       "language": "العربية",
       "age_rating": "16+",
       "year": 2026,
       "status": "مستمرة",
-      "is_new": true,
+      "is_new": false,
       "content_version": 1,
-      "updated_at": "2026-10-27T00:00:00Z",
+      "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_7.json",
-      "episodes": [
-        {
-          "id": "s7e1",
-          "number": 1,
-          "title": "مدينة خلف المرآة",
-          "price": 0,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s7e1.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        },
-        {
-          "id": "s7e2",
-          "number": 2,
-          "title": "ثمن العبور",
-          "price": 12,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s7e2.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        }
-      ],
       "cover_source": "Unsplash",
       "classification_badge": {
         "color": "blue",
         "symbol": "16+",
         "label": "لليافعين 16+"
       },
-      "is_featured": true
+      "is_featured": false
     },
     {
       "id": 8,
       "title": "ظلّ القمر",
       "author": "سارة علي",
       "cover": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=600&h=900&q=85",
-      "price": 13,
-      "rating": 4.6,
+      "price": 28,
+      "rating": 4.5,
       "genre": [
-        "غموض",
-        "رومانسي"
+        "رومانسي",
+        "فانتازيا"
       ],
       "tags": [
-        "غموض",
-        "رومانسي"
+        "قمر",
+        "وعد"
       ],
       "description": "حكاية وعد قديم يعود مع اكتمال القمر.",
       "language": "العربية",
       "age_rating": "16+",
       "year": 2026,
       "status": "مستمرة",
-      "is_new": true,
+      "is_new": false,
       "content_version": 1,
-      "updated_at": "2026-10-27T00:00:00Z",
+      "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_8.json",
-      "episodes": [
-        {
-          "id": "s8e1",
-          "number": 1,
-          "title": "حين اكتمل القمر",
-          "price": 0,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s8e1.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        },
-        {
-          "id": "s8e2",
-          "number": 2,
-          "title": "الوعد",
-          "price": 13,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s8e2.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        }
-      ],
       "cover_source": "Unsplash",
       "classification_badge": {
         "color": "blue",
         "symbol": "16+",
         "label": "لليافعين 16+"
       },
-      "is_featured": true
+      "is_featured": false
     },
     {
       "id": 9,
       "title": "ملف القضية 09",
       "author": "حيدر سالم",
       "cover": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=600&h=900&q=85",
-      "price": 14,
-      "rating": 4.6,
+      "price": 32,
+      "rating": 4.8,
       "genre": [
         "غموض",
-        "تحقيق"
+        "جريمة"
       ],
       "tags": [
-        "غموض",
-        "تحقيق"
+        "تحقيق",
+        "أدلة"
       ],
       "description": "محقق يتتبع قضية أغلقت قبل أن تبدأ الأدلة بالظهور مجدداً.",
       "language": "العربية",
       "age_rating": "16+",
       "year": 2026,
-      "status": "مستمرة",
+      "status": "مكتملة",
       "is_new": true,
       "content_version": 1,
-      "updated_at": "2026-10-27T00:00:00Z",
+      "updated_at": "2026-10-27",
       "file": "https://raw.githubusercontent.com/osama2000418/Repository/main/stories/story_9.json",
-      "episodes": [
-        {
-          "id": "s9e1",
-          "number": 1,
-          "title": "الملف المغلق",
-          "price": 0,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s9e1.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        },
-        {
-          "id": "s9e2",
-          "number": 2,
-          "title": "الشاهد الأخير",
-          "price": 14,
-          "discount_percent": 0,
-          "gift": false,
-          "content_url": "https://raw.githubusercontent.com/osama2000418/Repository/main/episodes/s9e2.txt",
-          "content_version": 1,
-          "updated_at": "2026-10-27"
-        }
-      ],
       "cover_source": "Unsplash",
       "classification_badge": {
         "color": "blue",
         "symbol": "16+",
         "label": "لليافعين 16+"
       },
-      "is_featured": true
+      "is_featured": false
     }
   ],
   "featured_stories": [
@@ -755,9 +565,7 @@
           "season": 0,
           "parent_story_id": 1,
           "order": 0,
-          "color": "#FF642E",
-          "volcano_activity": 0.96,
-          "volcano_state": "erupting"
+          "color": "#FF642E"
         },
         {
           "story_id": 2,
@@ -765,9 +573,7 @@
           "season": 1,
           "parent_story_id": 1,
           "order": 1,
-          "color": "#FF8A3D",
-          "volcano_activity": 0.88,
-          "volcano_state": "active"
+          "color": "#FF8A3D"
         },
         {
           "story_id": 3,
@@ -775,9 +581,7 @@
           "season": 2,
           "parent_story_id": 2,
           "order": 2,
-          "color": "#35C9D0",
-          "volcano_activity": 0.57,
-          "volcano_state": "quiet"
+          "color": "#35C9D0"
         },
         {
           "story_id": 4,
@@ -785,9 +589,7 @@
           "season": 3,
           "parent_story_id": 2,
           "order": 3,
-          "color": "#B58BFF",
-          "volcano_activity": 0.76,
-          "volcano_state": "active"
+          "color": "#B58BFF"
         },
         {
           "story_id": 5,
@@ -795,9 +597,7 @@
           "season": 4,
           "parent_story_id": 3,
           "order": 4,
-          "color": "#E66C9A",
-          "volcano_activity": 0.34,
-          "volcano_state": "quiet"
+          "color": "#E66C9A"
         },
         {
           "story_id": 6,
@@ -805,9 +605,7 @@
           "season": 5,
           "parent_story_id": 4,
           "order": 5,
-          "color": "#72C6A5",
-          "volcano_activity": 0.68,
-          "volcano_state": "active"
+          "color": "#72C6A5"
         }
       ],
       "links": [
@@ -855,14 +653,15 @@
         }
       ],
       "layout": {
-        "type": "vertical_volcanic_tree",
-        "description": "الجذر في الأعلى، فرع رئيسي تحته، فرعان في المستوى الثالث، وفرعان سفليان متدرجان مع أخاديد حمم"
+        "type": "vertical_abyssal_liquid_tree",
+        "description": "جذر علوي تتفرع منه الروايات عبر ممرات مائية مضيئة؛ تتصل كل بطاقة تلقائياً ببطاقة الأب عبر بحيرات وقنوات صغيرة متحركة"
       },
       "visual_effects": {
-        "terrain": "carved_volcanic_fissures",
-        "lava": "animated",
-        "steam": "animated",
-        "craters": "between_parent_and_child"
+        "terrain": "dark_seabed_channels",
+        "water": "animated_layered_turquoise_streams",
+        "foam": "moving_light_streaks",
+        "pools": "breathing_ripples_between_parent_and_child",
+        "connections": "automatic_parent_child"
       }
     }
   ]

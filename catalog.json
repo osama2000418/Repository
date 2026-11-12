@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "app_name": "حكاياتي - قصص وعملات",
   "minimum_app_version": "1.0.0",
   "updated_at": "2026-10-30T00:00:00Z",
@@ -587,7 +587,7 @@
           "story_id": 4,
           "relation": "sequel",
           "season": 3,
-          "parent_story_id": 1,
+          "parent_story_id": 2,
           "order": 3,
           "color": "#B58BFF"
         },
@@ -595,7 +595,7 @@
           "story_id": 5,
           "relation": "side",
           "season": 4,
-          "parent_story_id": 2,
+          "parent_story_id": 3,
           "order": 4,
           "color": "#E66C9A"
         },
@@ -603,7 +603,7 @@
           "story_id": 6,
           "relation": "branch",
           "season": 5,
-          "parent_story_id": 3,
+          "parent_story_id": 4,
           "order": 5,
           "color": "#72C6A5"
         }
@@ -651,7 +651,17 @@
           "label": "أصل الحكاية",
           "color": "#FF8ED6A8"
         }
-      ]
+      ],
+      "layout": {
+        "type": "vertical_volcanic_tree",
+        "description": "الجذر في الأعلى، فرع رئيسي تحته، فرعان في المستوى الثالث، وفرعان سفليان متدرجان مع أخاديد حمم"
+      },
+      "visual_effects": {
+        "terrain": "carved_volcanic_fissures",
+        "lava": "animated",
+        "steam": "animated",
+        "craters": "between_parent_and_child"
+      }
     }
   ]
 }

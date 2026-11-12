@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "app_name": "حكاياتي - قصص وعملات",
   "minimum_app_version": "1.0.0",
   "updated_at": "2026-10-30T00:00:00Z",
@@ -295,7 +295,7 @@
       "id": 3,
       "title": "سحر المقابر",
       "author": "زينب ماجد",
-      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho870YfMNw7wksHA60DjVzv0-a_8Ko2K88T-G7HKMVHTe5bs-8o1V8hCCH8esednvJKzxq2Rzkl63HrOOJ4RFl5Tu94bQC_IFcCqf5MObfeonAKhacLd7hHLS-TmVd9numKN7f-4pZrBS_bNc5uUiwQyw9CF5UaV6gLz3sSC4Wd7c_OHLuQZAwQwqANaY/s547/9053.jpg",
+      "cover": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=600&h=900&q=85",
       "price": 30,
       "rating": 4.8,
       "genre": [
@@ -551,6 +551,107 @@
       "day_label": "الخميس · 12 نوفمبر",
       "release_label": "تحديث الرواية",
       "note": "موعد الإصدار القادم"
+    }
+  ],
+  "story_universes": [
+    {
+      "id": "shadow-kingdom-universe",
+      "title": "مملكة الظلال · مصفوفة السلاسل",
+      "root_story_id": 1,
+      "nodes": [
+        {
+          "story_id": 1,
+          "relation": "original",
+          "season": 0,
+          "parent_story_id": 1,
+          "order": 0,
+          "color": "#FF642E"
+        },
+        {
+          "story_id": 2,
+          "relation": "season",
+          "season": 1,
+          "parent_story_id": 1,
+          "order": 1,
+          "color": "#FF8A3D"
+        },
+        {
+          "story_id": 3,
+          "relation": "side",
+          "season": 2,
+          "parent_story_id": 2,
+          "order": 2,
+          "color": "#35C9D0"
+        },
+        {
+          "story_id": 4,
+          "relation": "sequel",
+          "season": 3,
+          "parent_story_id": 1,
+          "order": 3,
+          "color": "#B58BFF"
+        },
+        {
+          "story_id": 5,
+          "relation": "side",
+          "season": 4,
+          "parent_story_id": 2,
+          "order": 4,
+          "color": "#E66C9A"
+        },
+        {
+          "story_id": 6,
+          "relation": "branch",
+          "season": 5,
+          "parent_story_id": 3,
+          "order": 5,
+          "color": "#72C6A5"
+        }
+      ],
+      "links": [
+        {
+          "from_story_id": 1,
+          "to_story_id": 3,
+          "type": "parallel",
+          "label": "حدث متزامن",
+          "color": "#FFFFC06A"
+        },
+        {
+          "from_story_id": 2,
+          "to_story_id": 4,
+          "type": "shared_event",
+          "label": "حدث مشترك",
+          "color": "#FF72D8D0"
+        },
+        {
+          "from_story_id": 3,
+          "to_story_id": 5,
+          "type": "character",
+          "label": "شخصية مشتركة",
+          "color": "#FFC49AFF"
+        },
+        {
+          "from_story_id": 4,
+          "to_story_id": 6,
+          "type": "continuity",
+          "label": "امتداد زمني",
+          "color": "#FFB99BFF"
+        },
+        {
+          "from_story_id": 2,
+          "to_story_id": 6,
+          "type": "reference",
+          "label": "إشارة متقاطعة",
+          "color": "#FFFF8E9E"
+        },
+        {
+          "from_story_id": 1,
+          "to_story_id": 5,
+          "type": "origin",
+          "label": "أصل الحكاية",
+          "color": "#FF8ED6A8"
+        }
+      ]
     }
   ]
 }
